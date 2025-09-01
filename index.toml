@@ -6048,7 +6048,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "af1270987203e41ee2ac5a293bda1f4c49d6d2d40408431d92d61a5fc3eca82b"
+hash = "4646bb5a4309f549c3d37c4d56db379df35128bd16efd200444efe4bd63b995d"
 metafile = true
 
 [[files]]
@@ -6188,7 +6188,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
@@ -6218,7 +6218,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-beams-refork.pw.toml"
-hash = "21331d2355ad57dcb0911aa1be2f9da1f69f9a4f310902360f9bdc046a50d2a2"
+hash = "b923103ccf2ab8770c690e5535a8c4a80d6e35ac97cdd27ae84e1f82c38fa55d"
 metafile = true
 
 [[files]]
