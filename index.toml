@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "750f45af215b2cb547d8a2605c4f092de80a11d51b1ec314e942d0d0ed6437c4"
-
-[[files]]
-file = "README.md"
-hash = "7dd91e07f0341646d53f6938278a4d3e87961fabea066f7e6f40b7398f3b0b0f"
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
