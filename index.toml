@@ -1611,11 +1611,6 @@ hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/wildfires-female-gender-mod-ru-localization.pw.toml"
-hash = "41cbfc5a882acd0f491df89c3ff940fc0fd7b8fdebee4373c15ad248f96e54a0"
-metafile = true
-
-[[files]]
 file = "shaderpacks/just-colored-lighting.pw.toml"
 hash = "3cf412b9aff1b0a7669abaf3d00319189177d1c4a1cc85286a0f6c5cfb6bb0b6"
 metafile = true
