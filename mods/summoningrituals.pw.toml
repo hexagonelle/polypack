@@ -1,0 +1,13 @@
+name = "Summoning Rituals"
+filename = "summoningrituals-forge-1.20.1-2.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/19smZ71v/versions/zAGXClGI/summoningrituals-forge-1.20.1-2.0.8.jar"
+hash-format = "sha512"
+hash = "a788d34a0ad7eaea85f1cbdf298e7606ba949463ae717f4da7d49e78af53622b0e18d672b0dd2b0fab6af4b9e83f7c5679dc532dbd425ac4c2a114a41ea0ada0"
+
+[update]
+[update.modrinth]
+mod-id = "19smZ71v"
+version = "zAGXClGI"

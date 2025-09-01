@@ -1,0 +1,28 @@
+{
+    "type": "dynamic_asset_generator:overlay",
+    "output_location" : "kubejs:block/compressed_andesite",
+    "sources": [
+        {
+            "type" : "dynamic_asset_generator:texture",
+            "path" : "minecraft:block/andesite"
+        },
+        {
+            "type" : "dynamic_asset_generator:texture",
+            "path" : "kubejs:block/compressed"
+        }
+    ]
+},
+{
+    "type": "dynamic_asset_generator:overlay",
+    "output_location" : "kubejs:block/double_compressed_andesite",
+    "sources": [
+        {
+            "type" : "dynamic_asset_generator:texture",
+            "path" : "minecraft:block/andesite"
+        },
+        {
+            "type" : "dynamic_asset_generator:texture",
+            "path" : "kubejs:block/double_compressed"
+        }
+    ]
+},

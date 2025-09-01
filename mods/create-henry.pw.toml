@@ -1,0 +1,13 @@
+name = "Create: Henry"
+filename = "Create-Henry-1.20.1-0.0.3-6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8HYG5u3b/versions/p8PsPq8y/Create-Henry-1.20.1-0.0.3-6.0.jar"
+hash-format = "sha512"
+hash = "fbed677fe6367461a765c40243bac8405f8cd033574e5dea80f446aff469bf2d5f3fdded9760d5689d6e5addc85db99c9290f721c3b6ebbb328b672fd9fd4745"
+
+[update]
+[update.modrinth]
+mod-id = "8HYG5u3b"
+version = "p8PsPq8y"

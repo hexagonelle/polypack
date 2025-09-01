@@ -1,0 +1,26 @@
+{
+	// Advanced Custom Generator (Custom Fluid Interaction)
+	"advanced": {
+		"minecraft:lava": {
+			"minecraft:water": {
+				// "obsidian": {
+				// 	"*": [{"id": "minecraft:crying_obsidian","weight": 1.0}]
+				// },
+				// cobblestone generator
+				"results": {
+					// "minecraft:deepslate": [{"id": "minecraft:cobbled_deepslate","weight": 1.0}],
+					// "quark:polished_jasper": [{"id": "quark:jasper","weight": 1.0}],
+					// "quark:polished_limestone": [{"id": "quark:limestone","weight": 1.0}],
+					// "quark:polished_shale": [{"id": "quark:shale","weight": 1.0}],
+					"*": [{"id": "minecraft:cobblestone","weight": 1.0}]
+				},
+			// },
+			// "b:minecraft:blue_ice": {
+			// 	"results": {
+			// 		"quark:permafrost": [{"id": "quark:permafrost","weight": 1.0}]
+			// 	}
+			// }
+		}
+	}
+
+}

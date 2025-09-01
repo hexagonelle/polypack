@@ -1,0 +1,13 @@
+name = "Fire Arrows Ignite Fire"
+filename = "firearrows-forge-1.20.1-13.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NoajjpZQ/versions/YJ2tebmH/firearrows-forge-1.20.1-13.2.jar"
+hash-format = "sha512"
+hash = "34a55030bc428f3109842378ca1ee3ff4c8712d5fa14dbe25acda1aa963aacb3dad29809963a4f8cc03f64d963522b94957a7cad566af817b0531499446bf9d6"
+
+[update]
+[update.modrinth]
+mod-id = "NoajjpZQ"
+version = "YJ2tebmH"

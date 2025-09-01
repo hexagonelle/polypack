@@ -1,0 +1,72 @@
+[
+	{
+		"mob": "mythicmounts:dragon",
+		"when": "onjoin",
+		"result": "deny"
+	},
+	{
+		"mob": "mythicmounts:courierbird",
+		"when": "onjoin",
+		"result": "deny"
+	},
+	{
+		"mob": "mythicmounts:colelytra",
+		"when": "onjoin",
+		"result": "deny"
+	},
+	{
+		"mob": "mythicmounts:nudibranch",
+		"when": "onjoin",
+		"result": "deny"
+	},
+	{
+		"mob": "mythicmounts:firebird",
+		"when": "onjoin",
+		"result": "deny"
+	},
+	{
+		"mob": "mythicmounts:ridinglizard",
+		"when": "onjoin",
+		"result": "deny"
+	},
+	{
+		"mob": "mythicmounts:acencia",
+		"mincount": 3,
+		"result": "deny"
+	},
+	{
+		"mob": "mythicmounts:archelon",
+		"mincount": 3,
+		"result": "deny"
+	},
+	{
+		"mob": "mythicmounts:direwolf",
+		"mincount": 3,
+		"result": "deny"
+	},
+	{
+		"mob": "mythicmounts:geckotoalizard",
+		"mincount": 3,
+		"result": "deny"
+	},
+	{
+		"mob": "mythicmounts:griffon",
+		"mincount": 3,
+		"result": "deny"
+	},
+	{
+		"mob": "mythicmounts:moth",
+		"mincount": 3,
+		"result": "deny"
+	},
+	{
+		"mob": "mythicmounts:netherbat",
+		"mincount": 3,
+		"result": "deny"
+	},
+	{
+		"mob": "mythicmounts:nightmare",
+		"mincount": 3,
+		"result": "deny"
+	}
+]

@@ -1,0 +1,16 @@
+name = "Team Strap-on"
+author = "hexagonelle"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "242dcda2081119818bdf0ea74d2e425e4f63daae43a453328bd606cd9790fda6"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20"]

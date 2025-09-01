@@ -1,0 +1,13 @@
+name = "[STORAGE UPGRADES] Decorative Storage"
+filename = "deco_storage-3.3608-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DLpaTTzJ/versions/Nx9Y8Zgw/deco_storage-3.3608-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "926577fcc8e5e83e45591d15f9b828e6087fdd47e7107f07748715d32d967797ffee0386c8882db0d15095ee9731948807abe02c1de2515e38dde143cd44cbac"
+
+[update]
+[update.modrinth]
+mod-id = "DLpaTTzJ"
+version = "Nx9Y8Zgw"

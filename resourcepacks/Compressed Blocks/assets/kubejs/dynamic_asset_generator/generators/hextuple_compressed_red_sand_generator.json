@@ -1,0 +1,17 @@
+{
+    "type": "dynamic_asset_generator:texture",
+    "output_location": "kubejs:block/hextuple_compressed_red_sand",
+    "input": {
+        "type": "dynamic_asset_generator:overlay",
+        "sources": [
+            {
+                "type": "dynamic_asset_generator:texture",
+                "path": "kubejs:block/hextuple_compressed"
+            },
+            {
+                "type": "dynamic_asset_generator:texture",
+                "path": "minecraft:block/red_sand"
+            }
+        ]
+    }
+}

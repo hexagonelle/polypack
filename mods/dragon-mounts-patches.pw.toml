@@ -1,0 +1,13 @@
+name = "Dragon Mounts Patches"
+filename = "dragon_mounts_patches-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S4osNSrW/versions/b38ZvaD0/dragon_mounts_patches-1.0.0.jar"
+hash-format = "sha512"
+hash = "bf72453e329d6465b7334b550e430334fae4f1da34232183b95eedebe435eef47cc44ada1986402384b9a3d42cead972293e5b19b4e56925db1cf6c4a91bf4e1"
+
+[update]
+[update.modrinth]
+mod-id = "S4osNSrW"
+version = "b38ZvaD0"

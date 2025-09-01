@@ -1,0 +1,13 @@
+name = "Aggro Indicator"
+filename = "aggroindicator-1.1.3+forge1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RpUNthCL/versions/xYGPoRKr/aggroindicator-1.1.3%2Bforge1.20.1.jar"
+hash-format = "sha512"
+hash = "52e5ba7f148b0a12d578cddc60d360807b3efdf80a2b9f783362daa922437b58d9dc0382870251de4c2361f31f054384ab2d523e5b800ba03a459b419893932b"
+
+[update]
+[update.modrinth]
+mod-id = "RpUNthCL"
+version = "xYGPoRKr"

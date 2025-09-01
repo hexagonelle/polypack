@@ -1,0 +1,64 @@
+
+#.
+#Packmakers' control panel for internal recipe compat
+[recipes]
+	#.
+	#.
+	#Allow the Hydraulic Press to process entire stacks at a time.
+	hydraulicBulkPressing = true
+	#.
+	#Value Hydraulic Press to drain amount of lava of each bonk.
+	#Range: 1 ~ 1000
+	hydraulicLavaDrainPressing = 250
+	#.
+	#Value Hydraulic Press to drain amount of fluid of each bonk.
+	#Range: 1 ~ 1000
+	hydraulicFluidDrainPressing = 1000
+
+#.
+#Parameters and abilities of Create: Henry's kinetic mechanisms
+[kinetics]
+
+	#.
+	#.
+	#Industrial Fan
+	[kinetics.industrialFan]
+		#.
+		#Maximum distance in blocks Fans can push entities.
+		#Range: > 5
+		fanPushDistance = 40
+		#.
+		#Maximum distance in blocks from where Fans can pull entities.
+		#Range: > 5
+		fanPullDistance = 40
+		#.
+		#[in Revolutions per Minute]
+		#Rotation speed at which the maximum stats of fans are reached.
+		#Range: > 64
+		fanRotationArgmax = 256
+
+	[kinetics.stressValues]
+
+		#.
+		#Fine tune the kinetic stats of individual components
+		[kinetics.stressValues.v2]
+
+			#.
+			#.
+			#[in Stress Units]
+			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+			[kinetics.stressValues.v2.impact]
+				redstone_divider = 0.0
+				hydraulic_press = 64.0
+				inverse_box = 0.0
+				multimeter = 0.0
+				industrial_fan = 4.0
+
+			#.
+			#[in Stress Units]
+			#Configure how much stress a source can accommodate for.
+			[kinetics.stressValues.v2.capacity]
+				furnace_engine = 256.0
+				kinetic_motor = 48.0
+				industrial_fan = 16.0
+

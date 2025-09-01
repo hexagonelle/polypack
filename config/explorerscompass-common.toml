@@ -1,0 +1,15 @@
+
+[General]
+	#Allows a player to teleport to a located structure when in creative mode, opped, or in cheat mode.
+	allowTeleport = false
+	#Allows players to view the precise coordinates and distance of a located structure on the HUD, rather than relying on the direction the compass is pointing.
+	displayCoordinates = false
+	#The maximum radius that will be searched for a structure. Raising this value will increase search accuracy but will potentially make the process more resource intensive.
+	#Range: 0 ~ 1000000
+	maxRadius = 10000
+	#A list of structures that the compass will not display in the GUI and will not be able to search for. Wildcard character * can be used to match any number of characters, and ? can be used to match one character. Ex: ["minecraft:stronghold", "minecraft:endcity", "minecraft:*village*"]
+	structureBlacklist = ["idas:*", "alexscaves:*", "integrated_villages:*", "born_in_chaos_v1*", "dimdoors*", "friendsandfoes*", "hexerei*", "nullscape*", "swem*", "supplementaries*", "aether*", "twilightforest*", "integrated_stronghold*", "minecraft:buried_treasure", "minecraft:desert_pyramid", "minecraft:igloo", "minecraft:jungle_pyramid", "minecraft:mineshaft_mesa", "minecraft:monument", "minecraft:nether_fossil", "minecraft:fortress", "minecraft:ruined_portal*", "minecraft:shipwreck*", "minecraft:stronghold", "minecraft:swamp_hut", "minecraft:village*", "graveyard:*grave*", "graveyard:memorial_tree", "graveyard:ruins", "deeperdarker:ancient_temple", "integrated_stronghold:stronghold", "minecraft:mansion", "minecraft:trail_ruins", "skyvillages:skyvillage", "terralith*", "betterdungeons*", "*mineshaft*", "*ocean_ruin*", "embers*", "apotheosis*"]
+	#The maximum number of samples to be taken when searching for a structure.
+	#Range: 0 ~ 100000000
+	maxSamples = 100000
+

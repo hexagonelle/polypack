@@ -1,0 +1,17 @@
+{
+    "type": "dynamic_asset_generator:texture",
+    "output_location": "kubejs:block/quintuple_compressed_gravel",
+    "input": {
+        "type": "dynamic_asset_generator:overlay",
+        "sources": [
+            {
+                "type": "dynamic_asset_generator:texture",
+                "path": "kubejs:block/quintuple_compressed"
+            },
+            {
+                "type": "dynamic_asset_generator:texture",
+                "path": "minecraft:block/gravel"
+            }
+        ]
+    }
+}

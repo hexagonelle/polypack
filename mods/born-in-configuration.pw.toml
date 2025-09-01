@@ -1,0 +1,13 @@
+name = "Born In Configuration"
+filename = "borninconfiguration-3.0.3-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8rGW0cNk/versions/Wk5BFWYA/borninconfiguration-3.0.3-all.jar"
+hash-format = "sha512"
+hash = "2b26a49adcf3b0772a26184cf550fe607cc9572df59a16d0cbfd95b9e2150f7e7d607be3912493739480282a907ca97b7dfc5061fc8b116210ed143939285a4c"
+
+[update]
+[update.modrinth]
+mod-id = "8rGW0cNk"
+version = "Wk5BFWYA"

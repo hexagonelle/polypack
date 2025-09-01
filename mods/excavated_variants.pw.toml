@@ -1,0 +1,13 @@
+name = "Excavated Variants"
+filename = "excavatedvariants-neoforge-1.20.1-3.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IZaMGxb0/versions/i1GPEWXO/excavatedvariants-neoforge-1.20.1-3.0.9.jar"
+hash-format = "sha512"
+hash = "32be0d33a889bae5275fa53e8c45312e5573b006a36f8fb44f1f48d3fa40be9f1077765e3c33899eb26f54677bfbbacb9452000279df9e2591e47e4ea6a3b250"
+
+[update]
+[update.modrinth]
+mod-id = "IZaMGxb0"
+version = "i1GPEWXO"

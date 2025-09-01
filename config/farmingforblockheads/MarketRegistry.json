@@ -1,0 +1,149 @@
+{
+	"groupOverrides": {
+		"Quark Saplings": {
+			"enabled": false
+		}
+	},
+
+	"customCategories": {
+		"magic_seeds": {
+			"name": "Magic",
+			"icon": {"item": "hexerei:witch_helmet"}
+		},
+		"delight_seeds": {
+			"name": "Farmer's Delight",
+			"icon": {"item": "farmersdelight:tomato"}
+		},
+		"quark_saplings_fixed": {
+			"name": "Quark",
+			"icon": {"item": "quark:red_blossom_sapling"}
+		},
+		"other_plants": {
+			"name": "Other Plants",
+			"icon": {"item": "supplementaries:flax"}
+		}
+	},
+
+	"customEntries": [
+		{
+			"output": {"item": "hexerei:sage_seed"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 1
+			},
+			"category": "magic_seeds"
+		},
+		{
+			"output": {"item": "hexerei:mandrake_plant"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 1
+			},
+			"category": "magic_seeds"
+		},
+		{
+			"output": {"item": "hexerei:belladonna_plant"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 1
+			},
+			"category": "magic_seeds"
+		},
+		{
+			"output": {"item": "hexerei:mugwort_bush"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 1
+			},
+			"category": "magic_seeds"
+		},
+		{
+			"output": {"item": "hexerei:yellow_dock_bush"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 1
+			},
+			"category": "magic_seeds"
+		},
+		{
+			"output": {"item": "hexerei:mahogany_sapling"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 1
+			},
+			"category": "magic_seeds"
+		},
+		{
+			"output": {"item": "hexerei:willow_sapling"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 1
+			},
+			"category": "magic_seeds"
+		},
+		{
+			"output": {"item": "hexerei:witch_hazel_sapling"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 1
+			},
+			"category": "magic_seeds"
+		},
+		{
+			"output": {"item": "delightful:cantaloupe_seeds"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 1
+			},
+			"category": "delight_seeds"
+		},
+		{
+			"output": {"item": "supplementaries:flax_seeds"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 1
+			},
+			"category": "other_plants"
+		},
+		{
+			"output": {"item": "quark:blue_blossom_sapling"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 3
+			},
+			"category": "quark_saplings_fixed"
+		},
+		{
+			"output": {"item": "quark:lavender_blossom_sapling"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 3
+			},
+			"category": "quark_saplings_fixed"
+		},
+		{
+			"output": {"item": "quark:orange_blossom_sapling"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 3
+			},
+			"category": "quark_saplings_fixed"
+		},
+		{
+			"output": {"item": "quark:yellow_blossom_sapling"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 3
+			},
+			"category": "quark_saplings_fixed"
+		},
+		{
+			"output": {"item": "quark:red_blossom_sapling"},
+			"payment": {
+				"item": "minecraft:emerald",
+				"count": 3
+			},
+			"category": "quark_saplings_fixed"
+		}
+	]
+}

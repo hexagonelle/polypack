@@ -1,0 +1,13 @@
+name = "Plushie Mod"
+filename = "plushies-1.4.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hsOK0gUP/versions/lioWGH5B/plushies-1.4.0-forge.jar"
+hash-format = "sha512"
+hash = "fc7b8c86570aaa7bf79363f7bd573582b6dad1cc812d1c56004ea72357ddfc8c1fe4b488f1ed355fd29364d4c3a427931f6a4ac12f8d97d0795fb9332457fcb4"
+
+[update]
+[update.modrinth]
+mod-id = "hsOK0gUP"
+version = "lioWGH5B"

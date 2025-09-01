@@ -1,0 +1,13 @@
+name = "Cardiac"
+filename = "Cardiac-FORGE-0.5.3.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C5PewmIj/versions/BIMwnaET/Cardiac-FORGE-0.5.3.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "cb8b5e01247556a5f937cf78c788ca6b4de80704a3c2a80fdadffa7b7bf9fc1d9566b0d20999f61ebef4ac3f3255c4c72e0ec26d8853f8ac876e01a9f9ab9227"
+
+[update]
+[update.modrinth]
+mod-id = "C5PewmIj"
+version = "BIMwnaET"

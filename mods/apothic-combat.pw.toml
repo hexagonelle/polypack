@@ -1,0 +1,13 @@
+name = "Apothic Combat"
+filename = "ApothicCombat-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N29BujGY/versions/ARJQLWSX/ApothicCombat-1.20.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "bde54b18af8696c41c69bc2a88ae5cf7ba2813ebb0e5f4afbf1f57b4c53a18df1658eab2b5128b131b5f95b263f8ac599d6b7d6e7465c8140fc97647860fe151"
+
+[update]
+[update.modrinth]
+mod-id = "N29BujGY"
+version = "ARJQLWSX"

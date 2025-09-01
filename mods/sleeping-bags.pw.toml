@@ -1,0 +1,13 @@
+name = "Sleeping Bags"
+filename = "sleeping-bags-forge-1.20.1-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/abxRnW9z/versions/ym9lPcTV/sleeping-bags-forge-1.20.1-1.0.9.jar"
+hash-format = "sha512"
+hash = "8b50bf91a5dcafc5c1ca6a40a38bbf1f722b1fa2f927644bc6157a7087ab82fa988089a3bf122d690c8fec8a577dd6f56d08a1cdabe613c32d4f16b2d2ad17eb"
+
+[update]
+[update.modrinth]
+mod-id = "abxRnW9z"
+version = "ym9lPcTV"

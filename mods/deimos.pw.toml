@@ -1,0 +1,13 @@
+name = "Deimos"
+filename = "deimos-1.20.1-forge-2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WQaxNzFg/versions/CxeGAmL7/deimos-1.20.1-forge-2.3.jar"
+hash-format = "sha512"
+hash = "b3cba4e51dd48c49ee3acf2a6c84de0e37d3d339dd13654d0e30b9f028e620ee3698b9a18fb4db1cd94b2095774a8909809c19d240a6082fecb92fdebaa98e08"
+
+[update]
+[update.modrinth]
+mod-id = "WQaxNzFg"
+version = "CxeGAmL7"

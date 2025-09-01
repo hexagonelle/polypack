@@ -1,0 +1,31 @@
+{
+	"schema_version": 2,
+	"default_packs":
+		[
+			"file/VanillaTweaks_r537968_MC1.20.x.zip",
+			"file/§6Reimagined§0_§6Fixes§0_§8[v1.1]§0.zip",
+			"file/§aReimagined§0_§8[v1.47]§0.zip",
+			"file/villagers-refreshed-v1.0.zip",
+			"file/mobs-refreshed-v2.1.zip",
+			"file/better nether portal_1.20",
+			"file/Explorer_Compass_Retexture.zip",
+			"file/EnderEyes_1.20.1_v3.zip",
+			"file/EnderDragonTheme.zip",
+			"file/cubic-sun-moon-v1-8a.zip",
+			"file/Crop & Amethyst Growth Markers.zip",
+			"file/crops-3d.zip",
+			"file/BrewingCanvas_v0.6_1.19.zip",
+			"file/All tropical Fish Collection.zip",
+			"file/[1.4.1] Enhanced Boss Bars.zip",
+			"file/Wither_revamp.zip",
+			"file/Better_Enderdragon.zip",
+			"file/cluttered_everycomp_fix.zip",
+			"file/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
+			"file/Create-Construction-Wands",
+			"file/Slightly-Improved-Font-1.1.4.zip"
+		],
+
+	"default_overrides": {
+		"force_compatible": true
+	}
+}

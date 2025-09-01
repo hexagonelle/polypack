@@ -1,0 +1,13 @@
+name = "Even Better Amethyst"
+filename = "1.20.1-forge-betteramethyst-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/od3DqJ7M/versions/t7vLzNfG/1.20.1-forge-betteramethyst-1.0.4.jar"
+hash-format = "sha512"
+hash = "c8b621e53b4ef06b2eec54b03eefac1ac8b18e063ce4fe3db22f885117f6c31bb580c83ec71f6870ee9ce6c46fbbc845ed7ea434b2949fc076799d8929154434"
+
+[update]
+[update.modrinth]
+mod-id = "od3DqJ7M"
+version = "t7vLzNfG"

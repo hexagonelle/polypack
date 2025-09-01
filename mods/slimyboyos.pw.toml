@@ -1,0 +1,13 @@
+name = "SlimyBoyos"
+filename = "SlimyBoyos-forge-1.20.1-7.0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aT62gFqe/versions/cAPaQRlp/SlimyBoyos-forge-1.20.1-7.0.0.4.jar"
+hash-format = "sha512"
+hash = "2340377508c92ec4743dced08f7fa51d328a35266043e6f56c244cdfede0b19a78e40af1b541feba221bf65d8224c1ff394666c7e40a75e17492cd238a714f1f"
+
+[update]
+[update.modrinth]
+mod-id = "aT62gFqe"
+version = "cAPaQRlp"

@@ -1,0 +1,13 @@
+name = "Extra Color Codes"
+filename = "extracolorcodes-1.20.1-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7fd142050657e6b8212569f99fa14fa75ae3cba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5768653
+project-id = 1103550

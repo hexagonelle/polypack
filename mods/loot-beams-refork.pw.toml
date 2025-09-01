@@ -1,0 +1,13 @@
+name = "Loot Beams: Refork"
+filename = "Loot Beams Refork-forge-1.20.1-3.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0dbc8d3519e6112ea82f747f09f109ae7cdfeb2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6743797
+project-id = 1150640

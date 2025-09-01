@@ -1,0 +1,18 @@
+{
+	"type": "target_self",
+	"fluid": "minecraft:lava",
+	"priority": 1,
+	"generate": {"Name": "quark:limestone"},
+	"adjacent_blocks": {
+		"any": [
+			{
+				"fluids": "#minecraft:water",
+				"predicate_type": "immersive_weathering:fluid_match"
+			},
+			{
+				"block_state": {"Name": "quark:polished_limestone"},
+				"predicate_type": "minecraft:blockstate_match"
+			}
+		]
+	}
+}

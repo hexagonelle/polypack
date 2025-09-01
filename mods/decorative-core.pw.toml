@@ -1,0 +1,13 @@
+name = "Decorative Core"
+filename = "decorative_core-1.0508-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g0YZhKZF/versions/3yAeaNwj/decorative_core-1.0508-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "9ad0ddb6f4531308d7f37918969272ef93651dc50778740276be696b0f868f7ea44904cba5f7c079dfb6b32b9531f0de6c7013ad26cf5bbcb0bad076436aa722"
+
+[update]
+[update.modrinth]
+mod-id = "g0YZhKZF"
+version = "3yAeaNwj"

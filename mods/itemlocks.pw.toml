@@ -1,0 +1,13 @@
+name = "ItemLocks"
+filename = "ItemLocks-Forge-1.20.1-1.3.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tJzrFuyy/versions/CRPoOE7V/ItemLocks-Forge-1.20.1-1.3.8.jar"
+hash-format = "sha512"
+hash = "bb0c29fda2e611d15b2f1126f84898343f75a860f258b0fcb4d2863e75f00b812a4056dccd0fb30933ee49286d0a658db54c1564be9c2b54b2c849fbde2bbc88"
+
+[update]
+[update.modrinth]
+mod-id = "tJzrFuyy"
+version = "CRPoOE7V"

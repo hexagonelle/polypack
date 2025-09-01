@@ -1,0 +1,15 @@
+{
+	"type": "target_self",
+	"fluid": "minecraft:lava",
+	"generate": {
+		"Name": "minecraft:tuff"
+	},
+	"adjacent_blocks": {
+		"down": {
+			"block_state": {
+				"Name": "minecraft:structure_block"
+			},
+			"predicate_type": "minecraft:blockstate_match"
+		}
+	}
+}

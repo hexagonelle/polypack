@@ -1,0 +1,13 @@
+name = "Fuel Goes Here"
+filename = "fuelgoeshere-1.20.0-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nw1znDUQ/versions/C63jR4wv/fuelgoeshere-1.20.0-1.0.1.jar"
+hash-format = "sha512"
+hash = "ebe0e04b4d0c83e872af27066d17caba16b81eb80903f24992304a2d1771085cb29255fa14afe0e88b7d9701d0c89b2fc169aef26a4aa04a3e7fe421a827cb28"
+
+[update]
+[update.modrinth]
+mod-id = "Nw1znDUQ"
+version = "C63jR4wv"

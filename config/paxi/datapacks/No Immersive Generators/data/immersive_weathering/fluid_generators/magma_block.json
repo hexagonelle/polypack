@@ -1,0 +1,17 @@
+{
+	"type": "target_self",
+	"fluid": "minecraft:lava",
+	"generate": {
+		"Name": "minecraft:magma_block"
+	},
+	"adjacent_blocks": {
+		"any": [
+			{
+				"block_state": {
+					"Name": "minecraft:structure_block"
+				},
+				"predicate_type": "minecraft:blockstate_match"
+			}
+		]
+	}
+}

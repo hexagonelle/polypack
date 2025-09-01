@@ -1,0 +1,13 @@
+name = "Crying Ghasts"
+filename = "cryingghasts-1.20.1-3.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SFBuyD9e/versions/RkX2LE1w/cryingghasts-1.20.1-3.6.jar"
+hash-format = "sha512"
+hash = "0a3baf1425194ce3db265035a27c9b7677b376b3b730c7a0d5efd65643106f0a27262f62b2eb4be106d2172f3b2054ecfd3f41c96894dbed1a6f9e9d8a0f538d"
+
+[update]
+[update.modrinth]
+mod-id = "SFBuyD9e"
+version = "RkX2LE1w"
