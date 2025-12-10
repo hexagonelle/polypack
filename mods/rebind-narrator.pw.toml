@@ -1,0 +1,13 @@
+name = "Rebind Narrator"
+filename = "rebind_narrator-1.20.1-forge-2025.10.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qw2Ls89j/versions/eZiQsKjA/rebind_narrator-1.20.1-forge-2025.10.21.jar"
+hash-format = "sha512"
+hash = "d662adb002f3d1343d817cb9e8cbf998228f6790b1f606a778029f0487ca0720413c0032d89a48e30b0012294bbaaa6373e7215fc84e64a729ea8bc928fdbc9d"
+
+[update]
+[update.modrinth]
+mod-id = "qw2Ls89j"
+version = "eZiQsKjA"

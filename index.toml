@@ -2809,11 +2809,6 @@ hash = "3b4408ce2399f0ce9bab2243f3255c73d26f4113bc2438974ca47267ef9df7ea"
 metafile = true
 
 [[files]]
-file = "mods/achievements-optimizer.pw.toml"
-hash = "3ca7d9d3e8a27d354ece2adc3bbaf41f7c22f9b3e3b85175ff996e1f58f095fb"
-metafile = true
-
-[[files]]
 file = "mods/advanced-chimneys.pw.toml"
 hash = "ea506d33fdadff504ef78a2ba2a73a1fd203528996905c4175bd3b8d4f53b837"
 metafile = true
@@ -3056,6 +3051,11 @@ metafile = true
 [[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
+metafile = true
+
+[[files]]
+file = "mods/cerulean-advancements.pw.toml"
+hash = "2723c4b5a96c50cfc77dfbf633b385619487dd97914c408db8bcedbaee2ac02f"
 metafile = true
 
 [[files]]
@@ -3401,6 +3401,11 @@ metafile = true
 [[files]]
 file = "mods/domestication-innovation.pw.toml"
 hash = "bfd2911d1fc7136f92be93d4e3081b85f30109373ac640fbac2e3b3896d709f2"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
 metafile = true
 
 [[files]]
@@ -3809,6 +3814,11 @@ hash = "973587dcae27333615dc05cc7dae65926298e3fc6987221e25a0917f4d0f76e1"
 metafile = true
 
 [[files]]
+file = "mods/keybind-bundles.pw.toml"
+hash = "3281105a960a606d823f513b2cac3c061005201341019992496e05896cac39fc"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "8967c279523e66d0ebe110a594d34aa90c3a3089c4a83eeb6e142e4d745f37d7"
 metafile = true
@@ -3821,6 +3831,11 @@ metafile = true
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
 hash = "9ae63a04007eb86894e3f5b5d9a0b4c0c7e9a03968bc68c13557116061e00806"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "c8766f2ad1ae837ec4021167fc08bb9604c036d0fd12d7fc63bb407eaecb080e"
 metafile = true
 
 [[files]]
@@ -4059,8 +4074,18 @@ hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
+metafile = true
+
+[[files]]
 file = "mods/pagans-blessing.pw.toml"
 hash = "31511d2a297c1041bd046b17fbfcd83b6d1cc8148fa85631cc3701afaf414171"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "be2cd243fe83f4253d406afaf81781ffafb12d86903fcac8df913f247d84a0df"
 metafile = true
 
 [[files]]
@@ -4174,8 +4199,23 @@ hash = "dfe98fff6f1b53ea6cf1a6ba29b41fa0d9794a619be4aea50cc6cdd8c1147557"
 metafile = true
 
 [[files]]
+file = "mods/raws-visual-keybinder.pw.toml"
+hash = "5056029a24b67af27712ca96118baeed31335400234f7d142ced24f9681a6e8a"
+metafile = true
+
+[[files]]
 file = "mods/realm-rpg-fallen-adventurers.pw.toml"
 hash = "d282a7b0297f8987976b6f2495c35c9d11c22ebf6bd6cf1cba748e4cbd218744"
+metafile = true
+
+[[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "70317d05a7dfadbb3b9bb8aa1f1c3efa38cb442768a133be6ac851e3dabe2096"
+metafile = true
+
+[[files]]
+file = "mods/redirector.pw.toml"
+hash = "50676a9f0c30e103f7177be053cb6547f6150f4f96166a7915450612efe01311"
 metafile = true
 
 [[files]]
@@ -4214,6 +4254,11 @@ hash = "d668582ea913944b31fda3e0cbe8bd7fda3852f960bd4f7a58fe9bba526a9037"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "35c4484a3bd6b9055f3f944ed8bdc27fb8c62a385277b9e7f89fd19bccfa4191"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "3602f220a9d98e89d44168a6e84dc7bb169fb8b8209b4b966288d1fa1c3650bc"
 metafile = true
@@ -4226,6 +4271,11 @@ metafile = true
 [[files]]
 file = "mods/scholar.pw.toml"
 hash = "402313cc27e7fab4f56376b276807e4fc525721802e7b81af87c33eaa29c43e1"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "9fa45dfc2bc1e69381308d53a3a2f4ce21c10664424cdc8b84366d448cbc5250"
 metafile = true
 
 [[files]]
