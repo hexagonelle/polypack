@@ -4218,11 +4218,6 @@ hash = "70317d05a7dfadbb3b9bb8aa1f1c3efa38cb442768a133be6ac851e3dabe2096"
 metafile = true
 
 [[files]]
-file = "mods/redirector.pw.toml"
-hash = "50676a9f0c30e103f7177be053cb6547f6150f4f96166a7915450612efe01311"
-metafile = true
-
-[[files]]
 file = "mods/regrowth.pw.toml"
 hash = "5e893defced5c834e2c08f650ef66c6661bac7b46d62f206427ac813b127e6ac"
 metafile = true
