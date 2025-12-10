@@ -3879,7 +3879,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-beams-refork.pw.toml"
-hash = "b923103ccf2ab8770c690e5535a8c4a80d6e35ac97cdd27ae84e1f82c38fa55d"
+hash = "d9c728a2a101afeab18a169a637a6e23ecd59371e65e9d5ba90de883991a9d31"
 metafile = true
 
 [[files]]
