@@ -2275,6 +2275,530 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/exchangers/models/item/diamond_exchanger.json"
+hash = "1636d06e348599310903b784f7961c12d198d05bc4f7a61c96a4b6f578fc4aba"
+
+[[files]]
+file = "kubejs/assets/exchangers/models/item/iron_exchanger.json"
+hash = "df19731b6ef849c863c85c751569b7a7a1f7ffb00c1c1a9a9a5ec1f58e44c10a"
+
+[[files]]
+file = "kubejs/assets/exchangers/models/item/netherite_exchanger.json"
+hash = "cebb651b3e9f1ca7f7f6627b0b86b33d0f7012a1a5ebfd6695bd3b7a1b81b27b"
+
+[[files]]
+file = "kubejs/assets/exchangers/models/item/stone_exchanger.json"
+hash = "f0d35d5e05491dbde3bd2baae9474be17fe30fb7bdf8d2bde07b74fd4ffa14c0"
+
+[[files]]
+file = "kubejs/assets/exchangers/models/item/wooden_exchanger.json"
+hash = "daa40f441160d076183e7a9cba82b75029d52213a25675655ba2f208140fb0f8"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/core_tier_1.png"
+hash = "e9e2ef2ec6c60f3892c02e8f45e5aa80a0a286714ecb83d756c2829fa78295f3"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/core_tier_2.png"
+hash = "226da1b10f04061ad0699a18d6692c8d0137bc2815206be7dd74e81cc5afd788"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/core_tier_3.png"
+hash = "0f349879a750174eb77709f6a2fe49d03c981e44003add1b64be5d1126042638"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/diamond.png"
+hash = "69fe0a76b8292f9b532ccfdd5fe6ec6d7695fc12ba0778e1f2ee2d4da19510d1"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear.png"
+hash = "259e3746412b3e3b12eb1ba8b71ae3f7b13f793fa799e555832db740a528d49e"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear.png.mcmeta"
+hash = "8a8a874ef773766a284fcaf48118f3107a5120016590276264ebe61d1c932f37"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear1.png"
+hash = "ef7243450e46235f53c50b500955796dfe159f7247876cd28c61ad50e41352e7"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear1.png.mcmeta"
+hash = "095a5d387c7229421dd7f481c6075bb91f8ea704a976ba4539d6846bf6c757bc"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear2.png"
+hash = "252bb88d3b62d018502c2d04d43e9facf10637298a9ef7d74139eb7e8f93a59f"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear2.png.mcmeta"
+hash = "9628a662cd496ba2b97eb34a9114dbc04fc27e7a52954c838047ff1a633f5fc1"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear3.png"
+hash = "494dba5a08110f7b3a9cc94d76167a9e529d14806076a37da18f191328c6c803"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear3.png.mcmeta"
+hash = "6c39a3e7d2a73e0b6e85a87edd1d6bc6901aaac44f264fdd08eaf1a202a1bb5d"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear_primary.png"
+hash = "4d82aaa9b8a7882ec1e4c4b7ce242ad7229078c6683ed792f955c9ed93b4402d"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/iron.png"
+hash = "5477519bedbc3430fe2455dc9ad1e5ad8b9ec919d872cf3c8e13062b0e2ff726"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/netherite.png"
+hash = "fb0b193f919b073bd45f76bc2b27d42ef5f3625ae7e1ee88e6b3074c72ce90b7"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/stone.png"
+hash = "f5a8710d5e3b3fbb02f960176107e93fb7b7dbc304f41685f62ce3d0981adf64"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/wood.png"
+hash = "f22020315e7dfb1125c0915217c87e92c154191d585111b5c3c13cdd7c5c23ac"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/lantern_housing.json"
+hash = "6a5cc5bf8ca1f7815b7548cc958770a6be59e388b14e069b036bbae39104bde9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/cobbled_deepslate.png"
+hash = "368f505f250f950ff186ff0a92a9b810a2165a0750fa93f2b5bd6f0f3b20f094"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed.png"
+hash = "9f16130619b94c0d523e3170343f8ed3547baa91de649887f39dbfb3ab4ec676"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_andesite.png"
+hash = "41a15703159441ec6ef4503a18979b094a0bf9a1792f986cbdb60bd82943678b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_clay.png"
+hash = "f19c43215842685a0b7dfa8e046204ad6bbb7d3fdad801d8d8694d4a27ae0213"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_cobbled_deepslate.png"
+hash = "f8ed8ea114d7efeda175cdf69b9445e07f0ebc54837f81e92d7df49b0c331f13"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_cobblestone.png"
+hash = "726dc8c682df18fa895ef130329e8691b55edb7d0bfbb4f53a36b64dfcb72ff8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed.png"
+hash = "c92a0c9869a60c08f974a91121f7581c8a9f6678db59426b98f619f9455be8ee"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_andesite.png"
+hash = "8bd23a39a16b38dd91d60d4ea5b988f07f6ddec5a97299e01cf48b4c72298405"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_clay.png"
+hash = "ea2d665123e17b2db0e3898b59426db36b631db6b58b5c8a63a59ddc876a0b50"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_cobbled_deepslate.png"
+hash = "110b3268dc4af5b6060a25351b265ca618471120af8347003919c0dccfed9dc5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_cobblestone.png"
+hash = "bc2233c6149d88194505c22f6faa9b097a20ad59b1e98d66f8f04e3c55e94b96"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed.png"
+hash = "e33910f765ab67aba0b5cf993ee6e4dfe21d5b77fb8896cd4966dd4dd5956c48"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_andesite.png"
+hash = "e8c72ad27377e1f7f2797e2bf7ba8b266703316001fdbb50987b328291660adc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_clay.png"
+hash = "146eade227752ab6510b9ce1917d0388dae1a56f1291681d7cbcb70d1b37c644"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_cobbled_deepslate.png"
+hash = "0ba2da08185a884b186946beb2a16a68a5d9393b871cdd713f8eb601b3bd7a8e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_cobblestone.png"
+hash = "a3acc838fc8def97b2efdb60a325f6c6a91f1697e8753b61330bab0961e515a2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed.png"
+hash = "235ea8710ee0605bdb63f9a1df9c2fa94746ff7106363621c7d280a040b72a26"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_andesite.png"
+hash = "da86c4891c33136c4ae62bfe0112fbc423a3b51ff105c3b4a7e0eee6ecc6ca81"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_clay.png"
+hash = "62109f7db662b43dfbca187c24cd5a34ac4773819ff13a478bf8a33c92b3851b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_cobbled_deepslate.png"
+hash = "d3735a4ce64c8777879f4866672822f5c46be2ecad9d962b360b1ac1fa43183d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_cobblestone.png"
+hash = "0cb6df57aeecede69270a3238b7fc0dbbff6e4cae7bfba9346d6c3a68cf9a427"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed.png"
+hash = "233d907c7b354fc57e3c62bcee5815c966428074d54fb3229b2b482da1e19d07"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_andesite.png"
+hash = "cde2160374e8f3c92ed1bbf82422a772b3a20f54f9e1a9ac5ff890213724981e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_clay.png"
+hash = "b7447ee208bc68651bc48fab7e5c35a012621c2e4dadfd89f435187db7d75ee1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_cobbled_deepslate.png"
+hash = "3b13d5bc91766a5efa62b801f4f82fb0b855fc50ac3a163d157bef710d3987f3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_cobblestone.png"
+hash = "81917abdf1ff6388844b514b53d11d5b03f1bd84de328f12cfb05586436da8d0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/single_compressed.png"
+hash = "2f6aa9d111b3256c87f26294b1cdc9dc49bc2ab4a400c89b19531e2eba922c27"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed.png"
+hash = "c72d644e4cae8a2a1c93fbdba23d985d9587649c74e2d522942feaa8051ce6c5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_andesite.png"
+hash = "7efbfe88be9a47f2bdb015948a8127a967eb59cf2d051ee794772b1eb3ebf847"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_clay.png"
+hash = "7f458ce0fc7766daf1b96df176051fe7f648ebb9f04d113bb4f182b893ccdcd7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_cobbled_deepslate.png"
+hash = "93d4bbb36e5af920c55bc887a78e83f11316f476873dbe5f9ec150f65de32ef7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_cobblestone.png"
+hash = "f60f4363b291167ff4a13f94a1650aabab9a34c114f4ec853ce239a1cc762b0b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/baby_charcoal.png"
+hash = "2ee147fd6434e0bc4ae7ef1bb9ac5bc7d8b648e0bbb54b4a8223415613257bfb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/baby_coal.png"
+hash = "c10cf783d704e45eced819e4a71eace1ad10505e34feb87e7eba98c63bcedefc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/litematic_staff.png"
+hash = "e40cd96833ab5b890888ffa783fa19ea2773a7bdfb951a7f5b6ba3db0bf6f50e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/soul_lantern.png"
+hash = "af522e27edccf029ed46443d990ecadace87fbe87161c2926f938162783ede86"
+
+[[files]]
+file = "kubejs/client_scripts/jei.js"
+hash = "2ecd2adc64a5c61667290c65d811e614f3bf5b22e091c2eb7d041b8bed5b619c"
+
+[[files]]
+file = "kubejs/client_scripts/lootr.js"
+hash = "da780377000eee6a9bd88e8d8e06670d44fd5666926cc5aae2bc794a834fc272"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "55c1276e2a8f939508296a72c40280a5f2327edeac9cf5f96aeeefc35fdd19f5"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "63daee7d9e7c29b95a11ae2152674aa66f7f4c6d3a619cd1b8f83da59d839e8c"
+
+[[files]]
+file = "kubejs/server_scripts/almostunified.js"
+hash = "97605d1c1f3184ebf0241bd4ddbfc8cc8f857afc0ba50436c4aa472944eea263"
+
+[[files]]
+file = "kubejs/server_scripts/apotheosis.js"
+hash = "40440af259299197bd68886fabb4d006a9c04bbadb160d67280fd663c201e9a9"
+
+[[files]]
+file = "kubejs/server_scripts/berrygood.js"
+hash = "6a036d0ab1f63b92e10a4601775f7d2c329fbdea190f314175f7486ae07a3f68"
+
+[[files]]
+file = "kubejs/server_scripts/borninchaos.js"
+hash = "0a1151b5d54d473a1c65faa8a9c599dbb773a43000ac8347d24c4e34d569a014"
+
+[[files]]
+file = "kubejs/server_scripts/cataclysm_iw_quark_yungscaves.js"
+hash = "aeff54b45deb35dbc86271181a3e9af115fe59f0bb539d8e34d80cf212edebd7"
+
+[[files]]
+file = "kubejs/server_scripts/cluttered_handcrafted.js"
+hash = "f9202dc568f46a86509012e975f976bca79d383eb889f3289d013af8467aebd2"
+
+[[files]]
+file = "kubejs/server_scripts/cluttered_magicvibe.js"
+hash = "e9a44a64175d156e22f93fefa70474bb989647923feb3552bfa50aecf7c7aed9"
+
+[[files]]
+file = "kubejs/server_scripts/cluttered_supplementaries.js"
+hash = "f742add45a3289521577101296c85b63b69a974c255cbcb2f3e513a854f71029"
+
+[[files]]
+file = "kubejs/server_scripts/cobblegen.js"
+hash = "779f72ae5a5390344f9dea76df256c341fec6989f3e2144e90d035a8a3c0b1c2"
+
+[[files]]
+file = "kubejs/server_scripts/cookingforblockheads_supplementaries.js"
+hash = "9e2c876f56a9ddd7dcb133b0de2deace224b523042f408f1891745459210413a"
+
+[[files]]
+file = "kubejs/server_scripts/coppertuffbackport_quark.js"
+hash = "539af23628cc811dcd2961966f42e700fbac24ad463f904bba8420019eb10609"
+
+[[files]]
+file = "kubejs/server_scripts/create.js"
+hash = "d3c0a6a00433b94e811d65954ae434c67700b58f7baf9371c0f7f513f39b3d83"
+
+[[files]]
+file = "kubejs/server_scripts/create_alexscaves.js"
+hash = "feee811017f5c32b7206920418d6a5dc64cbd5c216037fb097394c9a61fde89b"
+
+[[files]]
+file = "kubejs/server_scripts/create_central_kitchen.js"
+hash = "3568aa2a43b894b63a65fcf2d84038ada9bba4d7a250daf1672d183203bca7c3"
+
+[[files]]
+file = "kubejs/server_scripts/create_embers.js"
+hash = "70ef9a68418888faa5a66793105dc8cba55ed9d550a0e3113eebb532ede50d79"
+
+[[files]]
+file = "kubejs/server_scripts/create_immersiveaircrafts.js"
+hash = "1704ccd7ac6112be7c6e1e0fd9efeae0c5190ba1ede8af39ae4a7b2f43648415"
+
+[[files]]
+file = "kubejs/server_scripts/create_quark.js"
+hash = "0bdfe2d3875afbfbb06986319bc1d70a7c825098fec04fc60face338df006993"
+
+[[files]]
+file = "kubejs/server_scripts/create_silentgear.js"
+hash = "72e32afc959af8a22bb83571595497df4d62ab6f17995191a2d66a53868e3c85"
+
+[[files]]
+file = "kubejs/server_scripts/create_wizardsreborn.js"
+hash = "0fa2b368de53965ba4c7c54543ce44a4d2263cb171208a1ac8790468df08a164"
+
+[[files]]
+file = "kubejs/server_scripts/creategbd.js"
+hash = "76cbf9d30411ad1c2357e71c803dae0d46859c53be18049d887339dca6eb40f1"
+
+[[files]]
+file = "kubejs/server_scripts/createhenry.js"
+hash = "924359d6d1c034101fc27ac4353b4172dee56a8825d88b783847df9128132076"
+
+[[files]]
+file = "kubejs/server_scripts/createmechanicalspawner.js"
+hash = "b1c5e182bf2ce7af955634bdbcd158242a986e754b23d13dae249c226676db0a"
+
+[[files]]
+file = "kubejs/server_scripts/custom-baby_coal.js"
+hash = "a91c2cd1b93c470194fcdfc06982ecb041e6606f059ca7bd81942d3c8e7c8cb9"
+
+[[files]]
+file = "kubejs/server_scripts/custom-babycoal.js"
+hash = "a91c2cd1b93c470194fcdfc06982ecb041e6606f059ca7bd81942d3c8e7c8cb9"
+
+[[files]]
+file = "kubejs/server_scripts/custom-babycoal_malum.js"
+hash = "c667c66cf4078f0f98865cd1c4451130397d18ddb063b67d85ff1e32d65d0b3f"
+
+[[files]]
+file = "kubejs/server_scripts/custom-compressedblocks.js"
+hash = "8d0f58e0eaa49b32ce7d00d8068d9984351c642304b3771d5a27e0c16cb5992d"
+
+[[files]]
+file = "kubejs/server_scripts/custom-compressedblocks_quark.js"
+hash = "6b312d6ad0d8d0f0f681563fc330be3e386dc09286115647510b5d69ed40641e"
+
+[[files]]
+file = "kubejs/server_scripts/custom-lantern_housing.js"
+hash = "d0c958548951d3aedbb3d7bb4d5756302c90e3df7fd6952aec12c1d576cde669"
+
+[[files]]
+file = "kubejs/server_scripts/custom-lanternhousing.js"
+hash = "57f49d6ae249814553dee08b67f61da930f4add6bcd0695caa4703c3778dd9b1"
+
+[[files]]
+file = "kubejs/server_scripts/custom-lanternhousing_realistictorches.js"
+hash = "39a6a0adc67afcfd416726be896e7bb815bf7c8e15e810bee6088fd5c405edd4"
+
+[[files]]
+file = "kubejs/server_scripts/delightful_hexerei_immersive-weathering.js"
+hash = "097c7b27be02055a0670154be6021ec4f28a785be63a292cafbf977905e700dd"
+
+[[files]]
+file = "kubejs/server_scripts/embers_silentgear.js"
+hash = "d2d765a3017c4a1afd4c2408e82ce6b14e41b8ad68e68c94a23faf156eb50621"
+
+[[files]]
+file = "kubejs/server_scripts/embers_terralith.js"
+hash = "8f4f9681a8608f2d493ed1c961e4ebdd26dde21a646889be123909d59c9747f7"
+
+[[files]]
+file = "kubejs/server_scripts/emi_endrem.js"
+hash = "564c1b7522a2333a3e09bb4388676ed39eb061af325efceea1acd8f79e9da0fa"
+
+[[files]]
+file = "kubejs/server_scripts/emi_exchangers.js"
+hash = "c6f2286774e7a4138460a20480f562a58d0a64023100146208c1f2186732ea00"
+
+[[files]]
+file = "kubejs/server_scripts/emi_farmingforblockheads.js"
+hash = "923234d108567b326d5ee2c7d75511a3466405411155058e678b9ae8969c9eba"
+
+[[files]]
+file = "kubejs/server_scripts/emi_reliquary.js"
+hash = "0d235908604c37246d5c389fb99f72d33b28adb938b23e1d15c703242d446c4c"
+
+[[files]]
+file = "kubejs/server_scripts/endrem.js"
+hash = "78c6528d95070fb64b572c8f9b72a77e686804f100babd5b97178cb1091f436f"
+
+[[files]]
+file = "kubejs/server_scripts/exchangers.js"
+hash = "84a4b951205f63e5b50efc5c073017149017d11b1fd1204748a4d7c781e20a6b"
+
+[[files]]
+file = "kubejs/server_scripts/explorerscompass.js"
+hash = "3e988355612db9c5b4361458ee3a9fc3ca685727f3113e6abf0dcd920d43746c"
+
+[[files]]
+file = "kubejs/server_scripts/farmersdelight.js"
+hash = "b292dc7a18a817d4ffe3321fbded529f1f00d626b19d981ff95b32a8a6b05774"
+
+[[files]]
+file = "kubejs/server_scripts/farmersdelight_create.js"
+hash = "40dcea4792fb3154c672affd924f1ec6daa8da108bb55178eff2d4cf2a332e32"
+
+[[files]]
+file = "kubejs/server_scripts/farmersdelight_quark.js"
+hash = "91c2c1599a7d401a07c41414bb6c6c1c6fb4060eafad4003b4796c524e893182"
+
+[[files]]
+file = "kubejs/server_scripts/farmersdelight_silentgear.js"
+hash = "28b393247a20456b1217014cb6b18ca61c04edeffb4008914275d69ac4dc7d09"
+
+[[files]]
+file = "kubejs/server_scripts/farmersdelight_supplementaries.js"
+hash = "1068a95608f1c8e142ad66afabbc6561fd2a8ebea3d2909083d050d043527cdf"
+
+[[files]]
+file = "kubejs/server_scripts/farmingforblockheads.js"
+hash = "621d58b63458f0540d6b9968e7c82854690654c33cfd2accdf57e210fd7149b8"
+
+[[files]]
+file = "kubejs/server_scripts/handcrafted.js"
+hash = "82afdf2005853b0de551f4f3512f1e9d39ace68252e31d2cd351651d5b9d1ca9"
+
+[[files]]
+file = "kubejs/server_scripts/handcrafted_supplementaries.js"
+hash = "379aa010868f5fb75984be1d534281b46c886ad6aa49f200e1e0bb528237a31c"
+
+[[files]]
+file = "kubejs/server_scripts/hexerei.js"
+hash = "d710846539e01a74474942ae050690d8c987bebac5318534f916f56bb63a230c"
+
+[[files]]
+file = "kubejs/server_scripts/immersiveweather_quark.js"
+hash = "50e63fdc1c08d1f8ffe9e81ca32c307f2147fd46c0c9aea4a7729332107e2ccb"
+
+[[files]]
+file = "kubejs/server_scripts/lootr.js"
+hash = "da780377000eee6a9bd88e8d8e06670d44fd5666926cc5aae2bc794a834fc272"
+
+[[files]]
+file = "kubejs/server_scripts/quark.js"
+hash = "27f01597c3006b0f1a087047c9bca77a1cb471b02d6c6c5553e211cac78f37ca"
+
+[[files]]
+file = "kubejs/server_scripts/rituals.js"
+hash = "56883f44bb303cd4d7f5de0b1fd728577e4cf16ca1c4cb9b195274451999c869"
+
+[[files]]
+file = "kubejs/server_scripts/silentgear.js"
+hash = "fcf377c0249d24d151b7582531796854f1da5e7b10b0365250e23dc0e1288440"
+
+[[files]]
+file = "kubejs/server_scripts/silentgear_supplementaries.js"
+hash = "bb455001009a32e5a917aaf6c733d12214295104de02c7ac60fe55bb99adba83"
+
+[[files]]
+file = "kubejs/server_scripts/supplementaries.js"
+hash = "4428f28771d5beb5ed853c652bbd4aa7dc24d7d36ec0759f97aadb5e9c00eb1a"
+
+[[files]]
+file = "kubejs/server_scripts/vanilla.js"
+hash = "a31ea8c99de1ac6a8038ed1ddd008699154137fe402b8bc814c446ed2115f687"
+
+[[files]]
+file = "kubejs/server_scripts/waystones.js"
+hash = "f572118114c173397668570e63225d83e1493a9bd0ea39ba833a0d745f1d058a"
+
+[[files]]
+file = "kubejs/startup_scripts/createmechanicalspawner.js"
+hash = "9dea1274314853b6b55e1e239d3fda97f1bdd6c3f2203c13ae1a77cb170e1003"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-babycoal.js"
+hash = "400850016c69ade9f0384cf811f39a5323729e56fc5c4449d893576181653968"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-compressedblocks.js"
+hash = "593b49c4d457b67f4ef6af903d431e03858bb20bdaae56642aaed7271a652ba0"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-compressedblocks_quark.js"
+hash = "5af7afd1296fd41bf8dd28249549906e5ada55af45d3c4b9c2a284927d869429"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-lantern_housing.js"
+hash = "49c6b671cf5aeb793c814926654ae80cac58179b44927a8e1015569d5e4f6bf9"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-litematicstaff.js"
+hash = "dc4ee2cb355296519b90cdc99625887bdaf3867deb89c2c8f7c0b89e9e97eca6"
+
+[[files]]
+file = "kubejs/startup_scripts/villager_enchants_infobook.js"
+hash = "6b816b1bd3fb4ccd738c423d90e183140f4bfe91d2f9628d4eddd0df0c24b66a"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b2ed80a95132518a9a6d52a487a7ddcc5b73904a335af5274d912c78fda3a649"
 metafile = true
