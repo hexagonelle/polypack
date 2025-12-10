@@ -81,7 +81,7 @@
 	#true if bubbling enchant is enabled, false if disabled
 	bubbling_enabled = false
 	#true if herding enchant is enabled, false if disabled
-	herding_enabled = true
+	herding_enabled = false
 	#true if amphibious enchant is enabled, false if disabled
 	amphibious_enabled = true
 	#true if vampire enchant is enabled, false if disabled

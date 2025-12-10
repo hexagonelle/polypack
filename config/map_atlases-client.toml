@@ -6,7 +6,7 @@
 	only_show_y_when_has_slices = true
 	#Global scale of entire minimap HUD. Keep at 1 for pixel perfect consistency
 	#Range: 0.0 ~ 20.0
-	scale = 2.0
+	scale = 1.5
 	#If 'true', the Mini-Map of the Active Map will be drawn on the HUD while the Atlas is active.
 	enabled = true
 	#How many maps to display in a single minimap. Essentially zoom. Can be a fraction
@@ -58,6 +58,10 @@
 	map_change_sound = false
 	#Automatically switches to the nearest slice when possible
 	automatic_slice_change = true
+	#Hides minimap when inventory is open
+	hide_when_inventory_is_open = false
+	#Shows a background texture for each map, useful to see where each map ends
+	shows_map_background = false
 
 [world_map]
 	crossair = true
@@ -106,7 +110,7 @@
 	enabled = true
 	#Allows tracking pins by pressing control, making them follow you on minimap
 	pin_tracking = true
-	#Show nearby mobs on minimap
+	#Show nearby mobs on minimap. Also requires matching server config
 	mob_radar = true
 	#Range: 0 ~ 256
 	radar_radius = 64

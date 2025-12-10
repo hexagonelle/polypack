@@ -1,0 +1,13 @@
+name = "The Wither, King of the Nether"
+filename = "The Wither, King of the Nether.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73b5fa137e51578ecfaa8ed79f1748ddd8f2f75c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6469395
+project-id = 1198395

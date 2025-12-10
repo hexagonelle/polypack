@@ -1,0 +1,13 @@
+name = "Default Server Properties"
+filename = "default-server-properties-forge-81.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fnrzx9Jl/versions/x8LSejaq/default-server-properties-forge-81.1.0.jar"
+hash-format = "sha512"
+hash = "1317295ae93ed2c2bdd34dd1502e3eeb5a9945c7366867b8e3875d93bb442320af5e0a13f74efba35a8b60d89f0daf263f69f57670fb0fd60e99534ac2d913fc"
+
+[update]
+[update.modrinth]
+mod-id = "Fnrzx9Jl"
+version = "x8LSejaq"

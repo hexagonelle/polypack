@@ -1,6 +1,6 @@
 {
 	// When enabled, gives signs without an area name a randomly chosen one from a preset list.
-	"giveUnnamedAreasRandomName": true,
+	"giveUnnamedAreasRandomName": false,
 	// The radius in blocks around the player in which to check for area signs.
 	// min: 0, max: 1000
 	"radiusAroundPlayerToCheckForSigns": 100,

@@ -2,6 +2,10 @@
 
 ServerEvents.recipes(event => {
 
+	// remove create tuff crushing
+	event.remove({ id:"create:crushing/tuff" })
+	event.remove({ id:"create:crushing/tuff_recycling" })
+
 	// Splashing recipe to turn bone blocks into calcite
 	// Purely for convenience
 	event.recipes.create.splashing('calcite', 'bone_block')
@@ -32,4 +36,5 @@ ServerEvents.recipes(event => {
 	event.recipes.create.deploying(
 		['minecraft:dirt'], ['minecraft:dirt_path', 'minecraft:dirt']
 	).keepHeldItem()
+
 })

@@ -2,30 +2,43 @@
 	"schema_version": 2,
 	"default_packs":
 		[
-			"file/VanillaTweaks_r537968_MC1.20.x.zip",
-			"file/§6Reimagined§0_§6Fixes§0_§8[v1.1]§0.zip",
-			"file/§aReimagined§0_§8[v1.47]§0.zip",
-			"file/villagers-refreshed-v1.0.zip",
-			"file/mobs-refreshed-v2.1.zip",
-			"file/better nether portal_1.20",
-			"file/Explorer_Compass_Retexture.zip",
-			"file/EnderEyes_1.20.1_v3.zip",
-			"file/EnderDragonTheme.zip",
-			"file/cubic-sun-moon-v1-8a.zip",
-			"file/Crop & Amethyst Growth Markers.zip",
-			"file/crops-3d.zip",
-			"file/BrewingCanvas_v0.6_1.19.zip",
-			"file/All tropical Fish Collection.zip",
-			"file/[1.4.1] Enhanced Boss Bars.zip",
-			"file/Wither_revamp.zip",
-			"file/Better_Enderdragon.zip",
-			"file/cluttered_everycomp_fix.zip",
-			"file/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
-			"file/Create-Construction-Wands",
-			"file/Slightly-Improved-Font-1.1.4.zip"
+			"Slightly-Improved-Font-1.1.5.zip",
+			"armory-conglomery-v2.1.zip",
+			"better nether portal_1.20.zip",
+			"Better_Enderdragon.zip",
+			"The_Wither-King_of_the_Nether.zip",
+			"TropicalFish-resource.zip",
+			"VanillaTweaks1.20.x.zip",
+			"villagers-refrehsed+FA-v1.0.zip",
+			"mobs-refreshed-fa-v2.2.zip",
+			"FreshAnimations_v1.10.1.zip",
+			"villagers-refreshed-v2.zip",
+			"mobs-refreshed-v2.2.zip",
+			"crops-3d(2).zip",
+			"cubic-sun-moon-v1.8.4a.zip",
+			"Reimagined_Test.zip",
+			"CompressedBlocks.zip",
+			"Explorer_Compass_Retexture.zip",
+			"Immersive_Generators_EMI.zip",
+			"Merchant_Fix.zip",
+			"cluttered_everycomp_fix.zip",
+			"Sophisticated Quark.zip",
+			"Visual Titles 1.1.zip",
+			"Newer Age v0.2.zip",
+			"Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
+			"Create Teleporters Remastered V0.1 1.20.1 Fix.zip",
+			"Create-Construction-Wands.zip"
 		],
 
 	"default_overrides": {
 		"force_compatible": true
+	},
+
+	"pack_overrides": {
+		"1": [
+    		"Quark Programmer Art.zip",
+    		"__moremcmeta-internal__"
+    	],
+    	"$$1": {"hidden": true}
 	}
 }

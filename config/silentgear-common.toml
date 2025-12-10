@@ -32,19 +32,19 @@
 		#Setting to zero would make the repair kit unusable.
 		[item.repairKits.efficiency]
 			#Range: 0.0 ~ 10.0
-			very_crude = 0.30000001192092896
+			very_crude = 0.0
 			#Range: 0.0 ~ 10.0
-			crude = 0.3499999940395355
+			crude = 0.0
 			#Range: 0.0 ~ 10.0
-			sturdy = 0.4000000059604645
+			sturdy = 0.0
 			#Range: 0.0 ~ 10.0
-			crimson = 0.44999998807907104
+			crimson = 0.0
 			#Range: 0.0 ~ 10.0
-			azure = 0.5
+			azure = 0.0
 			#Repair efficiency with loose materials if no repair kit is used.
 			#Setting a value greater than zero makes repair kits optional.
 			#Range: 0.0 ~ 10.0
-			missing = 0.0
+			missing = 0.5
 
 	[item.netherwood_charcoal]
 		#Burn time of netherwood charcoal, in ticks. Vanilla charcoal is 1600.
@@ -140,7 +140,7 @@
 	[gear.repairs]
 		#Effectiveness of gear repairs done in an anvil. Set to 0 to disable anvil repairs.
 		#Range: 0.0 ~ 1.0
-		anvilEffectiveness = 0.5
+		anvilEffectiveness = 0.75
 		#DEPRECATED! Use repair kit configs instead.
 		#Range: 0.0 ~ 1.0
 		quickEffectiveness = 0.35
@@ -176,7 +176,7 @@
 		#Maximum rate of part loss when salvaging items. 0 = no loss, 1 = complete loss.
 		#Rate depends on remaining durability.
 		#Range: 0.0 ~ 1.0
-		max = 0.5
+		max = 0.0
 
 #Settings for the starlight charger
 [starlightCharger]

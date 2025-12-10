@@ -1,0 +1,13 @@
+name = "Immersive Generators EMI"
+filename = "Immersive_Generators_EMI.zip"
+side = "client"
+
+# This file is only distributed locally,
+# so this url is only an example
+[download]
+url = "https://example.com/example.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "23477f66845a3127042e65963711a3c3971f532fc80342c86207b8f43611c350"

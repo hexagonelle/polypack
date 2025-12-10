@@ -1,0 +1,13 @@
+name = "C.A.D. Pack"
+filename = "cadpack-1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LD2ykg20/versions/Zg0rOcd5/cadpack-1.0.zip"
+hash-format = "sha512"
+hash = "f9faaf4414fe19740efd8ee09c2156c3b5e531b3ce2f3e6dc7d616fc4e72639c16fe1d3680db1c43f7b7e6703bfd8d07c5c2ee6d125493879e8b1b1f238048a2"
+
+[update]
+[update.modrinth]
+mod-id = "LD2ykg20"
+version = "Zg0rOcd5"

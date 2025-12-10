@@ -1,0 +1,13 @@
+name = "All Tropical Fish Datapack"
+filename = "TropicalFish-data 1.16 - 1.20.4.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vBrzjbyB/versions/mWV1PmA9/TropicalFish-data%201.16%20-%201.20.4.zip"
+hash-format = "sha512"
+hash = "265d6aeae357d657830eb50fd45d712b5518cdbe06ab33181dbdfde6a4fc2954436ea584021e6858e04298e0676cb4e4aa89b0939af5c200d792216f8b06af4e"
+
+[update]
+[update.modrinth]
+mod-id = "vBrzjbyB"
+version = "mWV1PmA9"

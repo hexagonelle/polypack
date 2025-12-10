@@ -3,11 +3,11 @@ filename = "PassthroughSigns-1.20.2-2.6.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ef8fae4a21275bb44004442fdcae43cda238ab05"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/LJacrKXW/versions/6hdj2gf4/PassthroughSigns-1.20.2-2.6.3.jar"
+hash-format = "sha512"
+hash = "1db6586263f1458614372927ff3f45c3e99f0917b36823b7a9d3e3b5d2e749600340af43bfdc8c023bda10dbdbd3c5c8d694d8eba6575c85d9f9392c950b22a9"
 
 [update]
-[update.curseforge]
-file-id = 4803074
-project-id = 224633
+[update.modrinth]
+mod-id = "LJacrKXW"
+version = "6hdj2gf4"

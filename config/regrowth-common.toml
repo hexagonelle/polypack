@@ -30,7 +30,7 @@
 
 ["Regrowth Wall Foundations"]
 	#Blocks villagers can build walls on .
-	wallFoundationsList = ["minecraft:grass_block", "minecraft:sand", "minecraft:red_sand", "minecraft:netherrack", "minecraft:sandstone", "minecraft:podzol", "minecraft:dirt", "minecraft:stone", "minecraft:coarse_dirt"]
+	wallFoundationsList = []
 
 ["Regrowth Biome Wall Data 6464"]
 	#Biome Meeting Wall Data String 6464

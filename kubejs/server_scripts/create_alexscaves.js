@@ -2,9 +2,6 @@
 
 ServerEvents.recipes(event => {
 
-	// conflict with alex's caves sulfur,vintage improvements sulfur
-	event.remove({id:"alexscaves:sulfur_from_dust"})
-
 	//add radrock uranium ore to crushing
 	event.recipes.create.crushing(
 		[

@@ -1,0 +1,13 @@
+name = "Merchant Fix"
+filename = "merchant_fix.zip"
+side = "client"
+
+# This file is only distributed locally,
+# so this url is only an example
+[download]
+url = "https://example.com/example.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "71c24740f6e744f464393623fb127725cf683ebb4d59749e0e18a1889db579b6"

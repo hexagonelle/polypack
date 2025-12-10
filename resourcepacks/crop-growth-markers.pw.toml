@@ -1,0 +1,11 @@
+name = "Crop Growth Markers"
+filename = "CropGrowthMarkers.zip"
+side = "client"
+
+# This is a locally distributed file, so this url will not download the file!
+[download]
+url = "https://example.com/example"
+hash-format = "sha256"
+hash = "f671b4685032794bc4dbca8424b807382e4d1d454af12e51ca15e32eb8830d56"
+
+[update]

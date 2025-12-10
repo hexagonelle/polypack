@@ -88,3 +88,12 @@ function upgradeTorchToLantern(torchTypeKeyValue){
 }
 
 torchLanternList.forEach(item => upgradeTorchToLantern(item));
+
+ServerEvents.recipes(event => {
+	
+	event.remove({id:"realistictorches:glowstone_crystal"});
+	event.remove({id:"realistictorches:glowstone_paste"});
+	event.remove({id:"minecraft:torch_crystal"});
+	event.remove({id:"minecraft:torch_paste"});
+
+});

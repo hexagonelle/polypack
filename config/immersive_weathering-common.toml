@@ -28,7 +28,7 @@
 	#Range: 0.0 ~ 1.0
 	immune_chance = 0.4
 	needs_air = false
-	enabled = true
+	enabled = false
 
 [icicle]
 	react_to_vibrations = true
@@ -47,13 +47,13 @@
 	flammable_cobweb = true
 
 [item_interaction]
-	pickaxe_cracking = true
+	pickaxe_cracking = false
 	pickaxe_cracking_shift = false
-	brick_breaking = true
+	brick_breaking = false
 	azalea_shearing = true
 	moss_shearing = true
 	moss_burning = true
-	shovel_extinguish = true
+	shovel_extinguish = false
 	sponge_rusting = true
 	sponge_rust_drying = false
 	axe_stripping = true

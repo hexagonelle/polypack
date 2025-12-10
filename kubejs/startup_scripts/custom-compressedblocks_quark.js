@@ -1,9 +1,9 @@
 StartupEvents.registry("block", (event) => {
 	let toCompress = [
-		["quark:jasper", "stone", "pickaxe"],
-		["quark:limestone", "stone", "pickaxe"],
-		["quark:shale", "stone", "pickaxe"],
-		["quark:permafrost", "stone", "pickaxe"],
+		["quark:jasper", "stone", "stone", "pickaxe"],
+		["quark:limestone", "stone", "stone", "pickaxe"],
+		["quark:shale", "stone", "stone", "pickaxe"],
+		["quark:permafrost", "stone", "stone", "pickaxe"],
 	];
 
 	let compressLevel = [
@@ -33,6 +33,7 @@ StartupEvents.registry("block", (event) => {
 	var displayCompressedName = "";
 	var baseBlockDisplayName = "";
 	var materialType = "";
+	var soundType = "";
 	var toolNeeded = "";
 	var compressionLevel = "";
 	var blockHardness = "";
@@ -40,7 +41,8 @@ StartupEvents.registry("block", (event) => {
 	toCompress.forEach(block=> {
 		internalName = block[0];
 		materialType = block[1];
-		toolNeeded = block[2];
+		soundType = block[2];
+		toolNeeded = block[3];
 		baseBlockDisplayName = internalName.split(":")[1]
 
 		compressLevel.forEach(level=> {
@@ -55,7 +57,8 @@ StartupEvents.registry("block", (event) => {
 
 			event.create(internalCompressedName)
 				.displayName(displayCompressedName)
-				.material(materialType)
+				.soundType(soundType)
+				.mapColor(materialType)
 				.hardness(blockHardness)
 				.resistance(blockHardness)
 				.requiresTool(true)

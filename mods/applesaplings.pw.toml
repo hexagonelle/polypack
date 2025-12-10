@@ -1,0 +1,13 @@
+name = "Apple Saplings"
+filename = "applesaplings-1.0.2_beta-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTFeBguF/versions/FcZmt4l9/applesaplings-1.0.2_beta-1.20.1.jar"
+hash-format = "sha512"
+hash = "8607c64a803fb98e8292b5268c876d80a7ca5d9266ae6ca8518d81e9931f575ed97695304b3aec4b0005aeac428d57ba191cec375ad590a005f588ec17924403"
+
+[update]
+[update.modrinth]
+mod-id = "LTFeBguF"
+version = "FcZmt4l9"

@@ -25,7 +25,7 @@ allowAcceptingFate = true
 #If true, Hardcore Revival will not be active in singleplayer.
 disableInSingleplayer = true
 #If true, Hardcore Revival will not be active when playing alone in multiplayer.
-disableInLonelyMultiplayer = false
+disableInLonelyMultiplayer = true
 #The damage sources that kill a player instantly, without a K.O. period.
 instantDeathSources = ["minecraft:lava"]
 

@@ -1,13 +1,13 @@
 name = "Create: Sound of Steam"
-filename = "pipeorgans-0.7.3+1.20.1.jar"
+filename = "pipeorgans-0.8.0+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2af85f219a3e528b7e2f0fb1afd7e4df711658b2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/yGttHo06/versions/f5NwnxTk/pipeorgans-0.8.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "a51e3a8c7397048685a3b56772dbebda49fddb244ad0d720750efad782d1c5efc845a9116205b332a20859546d7f51630ff298120ea1b16806f72267f926eb3c"
 
 [update]
-[update.curseforge]
-file-id = 6719262
-project-id = 1196142
+[update.modrinth]
+mod-id = "yGttHo06"
+version = "f5NwnxTk"

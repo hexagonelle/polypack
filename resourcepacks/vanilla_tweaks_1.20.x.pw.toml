@@ -1,0 +1,13 @@
+name = "Vanilla Tweaks 1.20.x"
+filename = "VanillaTweaks1.20.x.zip"
+side = "client"
+
+# This file is only distributed locally,
+# so this url is only an example
+[download]
+url = "https://example.com/example.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "a5576b02bc9b2dae18ee1ac8d79611d07c9a790c337da84e40397aa89b975a57"

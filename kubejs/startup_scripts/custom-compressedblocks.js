@@ -1,22 +1,91 @@
 StartupEvents.registry("block", (event) => {
 	let toCompress = [
-		["minecraft:andesite", "stone", "pickaxe"],
-		["minecraft:clay", "clay", "shovel"],
-		["minecraft:cobblestone", "stone", "pickaxe"],
-		["minecraft:cobbled_deepslate", "stone", "pickaxe"],
-		["minecraft:diorite", "stone", "pickaxe"],
-		["minecraft:dirt", "dirt", "shovel"],
-		["minecraft:granite", "stone", "pickaxe"],
-		["minecraft:gravel", "dirt", "shovel"],
-		["minecraft:netherrack", "stone", "pickaxe"],
-		["minecraft:sand", "sand", "shovel"],
-		["minecraft:red_sand", "sand", "shovel"],
-		["minecraft:snow", "snow", "shovel"],
-		["minecraft:soul_sand", "sand", "shovel"],
-		["minecraft:soul_soil", "dirt", "shovel"],
-		["minecraft:stone", "stone", "pickaxe"],
-		["minecraft:tuff", "stone", "pickaxe"],
-		["minecraft:deepslate", "stone", "pickaxe"]
+		[
+			"minecraft:andesite",
+			"stone",
+			"stone",
+			"pickaxe"
+		],[
+			"minecraft:clay",
+			"clay",
+			"gravel",
+			"shovel"
+		],[
+			"minecraft:cobblestone",
+			"stone",
+			"stone",
+			"pickaxe"
+		],[
+			"minecraft:cobbled_deepslate",
+			"stone",
+			"stone",
+			"pickaxe"
+		],[
+			"minecraft:diorite",
+			"stone",
+			"stone",
+			"pickaxe"
+		],[
+			"minecraft:dirt",
+			"dirt",
+			"gravel",
+			"shovel"
+		],[
+			"minecraft:granite",
+			"stone",
+			"stone",
+			"pickaxe"
+		],[
+			"minecraft:gravel",
+			"dirt",
+			"gravel",
+			"shovel"
+		],[
+			"minecraft:netherrack",
+			"stone",
+			"stone",
+			"pickaxe"
+		],[
+			"minecraft:sand",
+			"sand",
+			"sand",
+			"shovel"
+		],[
+			"minecraft:red_sand",
+			"sand",
+			"sand",
+			"shovel"
+		],[
+			"minecraft:snow",
+			"snow",
+			"snow",
+			"shovel"
+		],[
+			"minecraft:soul_sand",
+			"sand",
+			"sand",
+			"shovel"
+		],[
+			"minecraft:soul_soil",
+			"dirt",
+			"gravel",
+			"shovel"
+		],[
+			"minecraft:stone",
+			"stone",
+			"stone",
+			"pickaxe"
+		],[
+			"minecraft:tuff",
+			"stone",
+			"stone",
+			"pickaxe"
+		],[
+			"minecraft:deepslate",
+			"stone",
+			"stone",
+			"pickaxe"
+		]
 	];
 
 	let compressLevel = [
@@ -46,6 +115,7 @@ StartupEvents.registry("block", (event) => {
 	var baseBlockDisplayName = "";
 	var displayCompressedName = "";
 	var materialType = "";
+	var soundType = "";
 	var toolNeeded = "";
 	var compressionLevel = "";
 	var blockHardness = "";
@@ -53,7 +123,8 @@ StartupEvents.registry("block", (event) => {
 	toCompress.forEach(block=> {
 		internalName = block[0];
 		materialType = block[1];
-		toolNeeded = block[2];
+		soundType = block[2];
+		toolNeeded = block[3];
 		baseBlockDisplayName = internalName.split(":")[1]
 
 		compressLevel.forEach(level=> {
@@ -68,7 +139,8 @@ StartupEvents.registry("block", (event) => {
 
 			event.create(internalCompressedName)
 				.displayName(displayCompressedName)
-				.material(materialType)
+				.soundType(soundType)
+				.mapColor(materialType)
 				.hardness(blockHardness)
 				.resistance(blockHardness)
 				.requiresTool(true)

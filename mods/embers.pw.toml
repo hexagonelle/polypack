@@ -1,13 +1,13 @@
 name = "Embers Rekindled"
-filename = "embersrekindled-1.20.1-1.4.1.jar"
+filename = "embersrekindled-1.20.1-1.4.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eMWmEr1R/versions/v0fkymGC/embersrekindled-1.20.1-1.4.1.jar"
+url = "https://cdn.modrinth.com/data/eMWmEr1R/versions/yXZ90ayB/embersrekindled-1.20.1-1.4.6.jar"
 hash-format = "sha512"
-hash = "5b7af994356292b2ec39bf13e1886e44c5218a897e7562383c5015016f21320440ffcf129e2f8c525f89bcf1fa0c55ca9392e317af48bdf1bdce6cf07a58140e"
+hash = "9046bcb344eea8e372fcce75bcaaebad017d01353a4b45682668486f391a7e72de90d32e38eb88eeb1a786b14d059a0c76055306bac3490d499767dff1b270ac"
 
 [update]
 [update.modrinth]
 mod-id = "eMWmEr1R"
-version = "v0fkymGC"
+version = "yXZ90ayB"

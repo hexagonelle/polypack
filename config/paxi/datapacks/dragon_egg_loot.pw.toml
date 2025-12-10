@@ -1,0 +1,13 @@
+name = "Dragon Egg Loot"
+filename = "DragonEggLoot.zip"
+side = "server"
+
+# This file is distributed locally,
+# and so this url is just an example. It will not download the file!
+[download]
+url = "https://example.com/example.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "4723e8852a57118019beec1fa347eace2159fb02509ee8331ea3c950a32910d2"

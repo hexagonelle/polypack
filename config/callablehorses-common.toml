@@ -3,7 +3,7 @@
 	#Enable debug mode (Developers only) WARNING! Will override all horse names!
 	enableDebug = false
 	#Personal Horses get deleted if they're killed
-	deathIsPermanent = true
+	deathIsPermanent = false
 	#If the horse can be called in every dimension
 	callableInEveryDimension = false
 	#Whitelist for dimensions where horses can be called. callableInEveryDimension needs to be false!

@@ -7,5 +7,8 @@
   "#blockrunner:very_slow_blocks": 0.45,
   "#blockrunner:slightly_slow_blocks": 0.85,
   "#blockrunner:slightly_quick_blocks": 1.15,
-  "#minecraft:stone_bricks": 1.15
+  "#minecraft:stone_bricks": 1.35,
+  "#minecraft:stone_brick_slab": 1.35,
+  "#minecraft:stone_brick_double_slab": 1.35,
+  "#minecraft:stone_brick_stairs": 1.35
 }

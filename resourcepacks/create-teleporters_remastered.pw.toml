@@ -1,0 +1,13 @@
+name = "Create: Teleporters Remastered"
+filename = "Create Teleporters Remastered V0.1 1.20.1 Fix.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DyS2E78l/versions/lL7rFurp/Create%20Teleporters%20Remastered%20V0.1%201.20.1%20Fix.zip"
+hash-format = "sha512"
+hash = "f44121bdec30ac2ca8bcd9dddc2f5b0c0c5a42a5e3515343470095e7d36a0d077c88c7f3df46c905571f80f5c36e2c1ffb1de759c21e6591fbda030f4fa25ba5"
+
+[update]
+[update.modrinth]
+mod-id = "DyS2E78l"
+version = "lL7rFurp"

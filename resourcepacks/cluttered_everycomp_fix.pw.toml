@@ -1,0 +1,13 @@
+name = "Cluttered Everycomp Fix"
+filename = "cluttered_everycomp_fix.zip"
+side = "client"
+
+# This file is only distributed locally,
+# so this url is only an example
+[download]
+url = "https://example.com/example.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7bd3b5d1f0481942f592851b50ce575ada9fb11e765c727e12fec2933ad1d6e7"

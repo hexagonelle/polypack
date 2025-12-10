@@ -1,0 +1,13 @@
+name = "VanillaTweaks Confetti Creepers"
+filename = "VanillaTweaks_ConfettiCreepers.zip"
+side = "server"
+
+# This file is distributed locally,
+# and so this url is just an example. It will not download the file!
+[download]
+url = "https://example.com/example.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8f0692bf66a46194f1c7203c0eeb48f04858eca3868521aac427679d5de55d61"

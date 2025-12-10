@@ -1,0 +1,13 @@
+name = "BotaniClone"
+filename = "guris-botaniclone-v1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BiREyEg9/versions/cii8nMtK/guris-botaniclone-v1.zip"
+hash-format = "sha512"
+hash = "546df1b123e0ed83661cfadc2164d6000c32d751563745cf4af57963cbc2cbf61ba266f86a93ef798bf26a3bffc8894bd8a84f8d0e8ba10c55753e394e33154d"
+
+[update]
+[update.modrinth]
+mod-id = "BiREyEg9"
+version = "cii8nMtK"

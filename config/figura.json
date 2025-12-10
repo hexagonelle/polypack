@@ -2,5 +2,6 @@
   "CONFIG_VERSION": 1,
   "action_wheel_button": "key.keyboard.unknown",
   "figura_inventory": false,
-  "avatar_portrait": false
+  "avatar_portrait": false,
+  "popup_button": "key.keyboard.unknown"
 }

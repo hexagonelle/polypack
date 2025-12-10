@@ -1,13 +1,13 @@
 name = "Multi Mine"
-filename = "multimine-1.20.1.4.jar"
+filename = "multimine_mod-forge-1.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "04e655c4c276d466c24a2f53bda3bd33ad1ba666"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fJ90SEuf/versions/lfuKnPdk/multimine_mod-forge-1.2.0.jar"
+hash-format = "sha512"
+hash = "f8e5b166677faac4ddc737a8f53e22623de2f98cc8eefbb632eb390f92627053fca6be32d5aa927d05fdfd194f050a17436e0f7420a4324bd1b8d5139f7c1ac5"
 
 [update]
-[update.curseforge]
-file-id = 5389052
-project-id = 227887
+[update.modrinth]
+mod-id = "fJ90SEuf"
+version = "lfuKnPdk"

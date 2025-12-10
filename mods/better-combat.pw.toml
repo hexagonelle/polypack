@@ -1,13 +1,13 @@
 name = "Better Combat"
-filename = "bettercombat-forge-1.8.6+1.20.1.jar"
+filename = "bettercombat-forge-1.9.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/UjlaL0Fm/bettercombat-forge-1.8.6%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/rnhiaw3t/bettercombat-forge-1.9.0%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "24b3acd2b1ff3e24b2828ec003bcf2f5af7b4556be728996ddc8bdca3244bb92e91ef76f3c1bc10a15a5e59cd80b388f4994097fd258aadcb7abb7f3bd6959c3"
+hash = "0778902ce693ae56afd9a928e0629470095dff0324c6856fc45ee51a8efcfa622cc22edaa07ed40814d3b13851d62b27d144e9858e5209a6cf70fd3651f081e8"
 
 [update]
 [update.modrinth]
 mod-id = "5sy6g3kz"
-version = "UjlaL0Fm"
+version = "rnhiaw3t"

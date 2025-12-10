@@ -2,14 +2,14 @@ ServerEvents.recipes(event => {
 
 	const shelvesList = [
 		["minecraft:oak_",""],
-		["luphieclutteredmod:luphie_pink_","pink_"]
+		["cluttered:crabapple_","_pink"]
 	]
 
 	// fix conflict with handcrafted plate
-	shelvesList.forEach(shelf =>{
+	shelvesList.forEach(shelf => {
 		let materialBlockID = shelf[0] + "slab"
-		let outputID = "luphieclutteredmod:small_" + shelf[1] + "shelf"
-		let recipeID = outputID.concat("_recipe")
+		let outputID = "cluttered:small_shelf" + shelf[1]
+		let recipeID = outputID
 		let fenceBlockID = shelf[0] + "fence"
 
 		event.remove({id:recipeID})

@@ -1,0 +1,13 @@
+name = "Visual Traveler's Titles"
+filename = "Visual Titles 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z6cnZeGU/versions/wEBZ7Vhy/Visual%20Titles%201.1.zip"
+hash-format = "sha512"
+hash = "e165def610cabd66a088105d2fffc4ca7aab3b26c080f6a3d3eb7eb4124a0ce14df9ea0552b26dc0a8eff33d0c6d853b11011a65aca52b4863f5e98170d8d6ae"
+
+[update]
+[update.modrinth]
+mod-id = "Z6cnZeGU"
+version = "wEBZ7Vhy"

@@ -1,0 +1,13 @@
+name = "VanillaTweaks Name Colors"
+filename = "VanillaTweaks_NameColors.zip"
+side = "server"
+
+# This file is distributed locally,
+# and so this url is just an example. It will not download the file!
+[download]
+url = "https://example.com/example.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "dbfe031c64dc1563153b801db19eec9ad858e55fc78dcb6326d9f5570050043f"

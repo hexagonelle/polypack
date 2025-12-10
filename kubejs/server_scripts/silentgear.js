@@ -62,18 +62,22 @@ ServerEvents.tags('item', event => {
 
 	swordsList.forEach(sword => {
 		addToolToTag(sword,"minecraft:swords",event)
+		addToolToTag(sword,"forge:tools/swords",event)
 	})
 
 	pickaxesList.forEach(pickaxe => {
 		addToolToTag(pickaxe,"minecraft:pickaxes",event)
+		addToolToTag(pickaxe,"forge:tools/pickaxes",event)
 	})
 
 	axesList.forEach(axe => {
 		addToolToTag(axe,"minecraft:axes",event)
+		addToolToTag(axe,"forge:tools/axes",event)
 	})
 
 	shovelsList.forEach(shovel => {
 		addToolToTag(shovel,"minecraft:shovels",event)
+		addToolToTag(shovel,"forge:tools/shovels",event)
 	})
 
 	hoesList.forEach(hoe => {
@@ -90,14 +94,22 @@ ServerEvents.tags('item', event => {
 
 ServerEvents.compostableRecipes(event => {
 	event.add("silentgear:flax_seeds", 0.1)
+	event.add("silentgear:fluffy_seeds", 0.1)
 })
 
-let blockList = ['minecraft:dirt','minecraft:grass_block']
+let blockList = [
+	'minecraft:dirt',
+	'minecraft:grass_block',
+	'minecraft:podzol',
+	'minecraft:mycelium',
+	'minecraft:coarse_dirt',
+	'minecraft:rooted_dirt'
+]
 BlockEvents.rightClicked(e => {
 	if (!e.item.hasTag('minecraft:shovels')) return
 	if (!blockList.includes(e.block.id)) return
 	e.block.set('minecraft:dirt_path')
 	e.player.swing(e.hand,true);
-    e.level.runCommand(`playsound minecraft:block.gravel.place block @a ${e.block.x} ${e.block.y} ${e.block.z}`)
+    e.level.runCommandSilent(`playsound minecraft:block.gravel.place block @a ${e.block.x} ${e.block.y} ${e.block.z}`)
 
 })

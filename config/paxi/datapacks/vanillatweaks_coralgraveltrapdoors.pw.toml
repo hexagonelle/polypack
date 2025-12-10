@@ -1,0 +1,13 @@
+name = "VanillaTweaks Coral Gravel Trapdoors"
+filename = "VanillaTweaks_CoralGravelTrapdoors.zip"
+side = "server"
+
+# This file is distributed locally,
+# and so this url is just an example. It will not download the file!
+[download]
+url = "https://example.com/example.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "dff169c2fcc981ddf2500eb2381156eef1ced32dc3b272550d8ef5e8470ae42b"

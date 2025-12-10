@@ -1,13 +1,13 @@
 name = "Fire Arrows Ignite Fire"
-filename = "firearrows-forge-1.20.1-13.2.jar"
+filename = "firearrows-forge-1.20.1-13.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/NoajjpZQ/versions/YJ2tebmH/firearrows-forge-1.20.1-13.2.jar"
+url = "https://cdn.modrinth.com/data/NoajjpZQ/versions/v59WQPLP/firearrows-forge-1.20.1-13.3.jar"
 hash-format = "sha512"
-hash = "34a55030bc428f3109842378ca1ee3ff4c8712d5fa14dbe25acda1aa963aacb3dad29809963a4f8cc03f64d963522b94957a7cad566af817b0531499446bf9d6"
+hash = "b3f64d319524f1348143ccc7b034b9f00a8b86672104f40ddcec0f0177f31c69c69b27b31af46fb0789bd40f05eb856775c7be987969059604fffd764022a457"
 
 [update]
 [update.modrinth]
 mod-id = "NoajjpZQ"
-version = "YJ2tebmH"
+version = "v59WQPLP"
