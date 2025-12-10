@@ -3,11 +3,11 @@ filename = "Krypton FNP-forge-1.20.1-0.2.25-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9f5f6bf2053e2cf4877a61a052a0f0a09382c782"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/JkxWVYwU/versions/K356ekrG/Krypton%20FNP-forge-1.20.1-0.2.25-1.20.1.jar"
+hash-format = "sha512"
+hash = "0072797c1cb8a0654f9205df3f0a18bd3e5c55c72dfa771ffcb7de69dba7be0d4d6b3559e8cb9c81437567ed2dda69d72122c25c6e3ba30f144879091f281ca2"
 
 [update]
-[update.curseforge]
-file-id = 7290235
-project-id = 1269169
+[update.modrinth]
+mod-id = "JkxWVYwU"
+version = "K356ekrG"
