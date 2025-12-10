@@ -3808,11 +3808,6 @@ hash = "09123e9d447fe3a3a6d4f7a6c5de660578648fb197e085c1134ec2e3814cfd9c"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-archaeology.pw.toml"
-hash = "0e61bdad02c3baa90ff0c6894f533a4b7ac46090095d59f6162f848b99a90280"
-metafile = true
-
-[[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "973587dcae27333615dc05cc7dae65926298e3fc6987221e25a0917f4d0f76e1"
 metafile = true
