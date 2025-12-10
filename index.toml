@@ -1988,7 +1988,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/immersivegenerators.pw.toml"
-hash = "f5e91cb961f8b254959e9a3288bae81ab6c85c561aeeabce00c708cdd8663650"
+hash = "c54102c9d60a6166dafb7316c22fe51e8b4187794281c01e5d3b2aca00e647c1"
 metafile = true
 
 [[files]]
@@ -2785,6 +2785,10 @@ hash = "593b49c4d457b67f4ef6af903d431e03858bb20bdaae56642aaed7271a652ba0"
 [[files]]
 file = "kubejs/startup_scripts/custom-compressedblocks_quark.js"
 hash = "5af7afd1296fd41bf8dd28249549906e5ada55af45d3c4b9c2a284927d869429"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-glowing_obsidian.js"
+hash = "2d733de3344d76d24601aa259c1039aeb2628f6b3485abe48c093b41b1306de0"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-lantern_housing.js"

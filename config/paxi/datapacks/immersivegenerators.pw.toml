@@ -10,4 +10,4 @@ url = "https://example.com/example.zip"
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "454463c8c0785cafc0409c389974be9f99e9d06e878fd8b619fa4a4816f36bea"
+hash = "1b4280672576b3612bc7cfa9da3f43c09c79ffe2c16b6bbff4973267e1d34b70"
