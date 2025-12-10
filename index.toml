@@ -2933,11 +2933,6 @@ hash = "7a266a082b54627e5f95aa154871114fded8c0a06af104e49cf08668b869cfad"
 metafile = true
 
 [[files]]
-file = "mods/badpackets.pw.toml"
-hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "1b31cb793a692d9f692b233eab37e6fed156f7b05c4a2080a75ea6c06c38c178"
 metafile = true
