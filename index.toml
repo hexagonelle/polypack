@@ -3805,6 +3805,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
+hash = "9ae63a04007eb86894e3f5b5d9a0b4c0c7e9a03968bc68c13557116061e00806"
 metafile = true
 
 [[files]]
