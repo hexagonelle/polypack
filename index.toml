@@ -3344,6 +3344,11 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
+file = "mods/decorative-core.pw.toml"
+hash = "a7f4ddaae943d99cf5f3de68a2b4a6a016da695078cbcf108b0d97d0edd4ac71"
+metafile = true
+
+[[files]]
 file = "mods/decorative-storage.pw.toml"
 hash = "79b3b53fc811f95fe578826616359474415a5ed7dd6f0805c2ea327bd8456580"
 metafile = true
@@ -3671,6 +3676,11 @@ metafile = true
 [[files]]
 file = "mods/gml.pw.toml"
 hash = "3230a700b8083d1999523c5e77f7c9b14ed106059a8683ca780a06ab801231fb"
+metafile = true
+
+[[files]]
+file = "mods/gunpowderlib.pw.toml"
+hash = "fceee3c4da54bb71f2eceede2ea964c05b3e38032504dfc1e5d66b96b6fbc18e"
 metafile = true
 
 [[files]]
@@ -4004,6 +4014,11 @@ hash = "b8cb0e090011a9d2ed6fcf7007d19efc67b8d911300531054b46d1f41d54dd9e"
 metafile = true
 
 [[files]]
+file = "mods/nirvana-library.pw.toml"
+hash = "38572a347e687832f6f229472fd018f4da728b56fbe8706b6e89c65f7ac2efd6"
+metafile = true
+
+[[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
 hash = "f547da4b8f83e58e57224c3b0b451a6aaab542ae5784d93860b821029f64ecbe"
 metafile = true
@@ -4085,7 +4100,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "c9b8d127e878c9081d59b21019c3d0fa0a1e02eed5064f3c369479d807604fef"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
@@ -4181,6 +4196,11 @@ metafile = true
 [[files]]
 file = "mods/responsiveshields.pw.toml"
 hash = "002c65a532ae2a0f4b7808f4340ef8c4359b636c8b233e7e74f5f2a7426acf5e"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 metafile = true
 
 [[files]]
