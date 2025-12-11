@@ -4058,11 +4058,6 @@ hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
 
 [[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
-metafile = true
-
-[[files]]
 file = "mods/pagans-blessing.pw.toml"
 hash = "31511d2a297c1041bd046b17fbfcd83b6d1cc8148fa85631cc3701afaf414171"
 metafile = true
