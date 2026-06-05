@@ -1,6 +1,6 @@
 name = "Create: Power Grid - LEDs"
 filename = "powergrid_leds-forge-0.1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/JwbLciXQ/versions/GlI3AHq2/powergrid_leds-forge-0.1.0.jar"

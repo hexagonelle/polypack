@@ -3308,7 +3308,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-grid-leds.pw.toml"
-hash = "1b53b6284b20097dfe44fb51c60ad6099c6a171ce46853d9a6925aa0a25f6479"
+hash = "b43c110d29f8893e2eb959f62cdf01d4a4c8ce8959bf1d62d08ca1d09c463def"
 metafile = true
 
 [[files]]
@@ -3889,11 +3889,6 @@ metafile = true
 [[files]]
 file = "mods/jaopca.pw.toml"
 hash = "09123e9d447fe3a3a6d4f7a6c5de660578648fb197e085c1134ec2e3814cfd9c"
-metafile = true
-
-[[files]]
-file = "mods/justenoughbreeding.pw.toml"
-hash = "71e04fc3bfb6c6e0cf3dbd8c22d859732e1b7037c5d6ee367b0fc0a33d167301"
 metafile = true
 
 [[files]]
