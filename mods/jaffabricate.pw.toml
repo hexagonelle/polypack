@@ -1,6 +1,7 @@
 name = "Create: Jaffabricate"
 filename = "jaffabricate-1.20.1-6.0.1-1.1.2.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/a44amjIb/versions/kJ57xmEW/jaffabricate-1.20.1-6.0.1-1.1.2.jar"

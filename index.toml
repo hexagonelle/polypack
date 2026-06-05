@@ -1130,7 +1130,7 @@ hash = "3b570353ce3653c432aa89b204668cb6e4e9cc089baa73e721dbfc65fc2ccf56"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
-hash = "88b65872d239c8bb96c81ba00768a2368a726189738269b7e612827b07cd4e0c"
+hash = "ca5e4b36d0dc7b25604dd4baa61b678f97b4f006e5823ddae9d2ea612196593c"
 
 [[files]]
 file = "config/apotheosis/enchantments.cfg"
@@ -3883,12 +3883,17 @@ metafile = true
 
 [[files]]
 file = "mods/jaffabricate.pw.toml"
-hash = "0b7c1d9c45528ab5e10ddf62d6697a834e4203273dd5d4e82434e1de47b8c41e"
+hash = "9cf310409f0b242505fbdc7acba744a315b396415ccd677cea939d743cd58b2d"
 metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
 hash = "09123e9d447fe3a3a6d4f7a6c5de660578648fb197e085c1134ec2e3814cfd9c"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "db5b0e49607113eb8740838753460e6d2f8c718828fcc52b9fefd13adc4e4cae"
 metafile = true
 
 [[files]]
@@ -4514,11 +4519,6 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
-metafile = true
-
-[[files]]
-file = "mods/tmrv.pw.toml"
-hash = "d6df8413001708de7d27dc5234cb9b4ca1e5dc207d8f16fec7d41863d5b8b405"
 metafile = true
 
 [[files]]
