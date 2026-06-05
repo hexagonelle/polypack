@@ -3592,6 +3592,11 @@ hash = "998b8b054badc82168945dc17d76f9ffc50351e8b41883fc5f9e89baf437ed2b"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "762c24cb3426909993a7f7cd70371cd633e81bf09f3553c85e37ca3ff56f2558"
+metafile = true
+
+[[files]]
 file = "mods/even-better-amethyst.pw.toml"
 hash = "d6f1e87615adbdd06457c1b3e691715a75524f6b6eab434d0f96fd041a9efcf1"
 metafile = true

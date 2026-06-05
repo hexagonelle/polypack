@@ -1,0 +1,13 @@
+name = "Essential Mod"
+filename = "Essential_1-3-10-9_forge_1-20-1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/f1EyGruV/Essential_1-3-10-9_forge_1-20-1.jar"
+hash-format = "sha512"
+hash = "3bf79d6574eb0565e58df4266d4ee6b15db880cbc1041677c3efd66ccd56c76d6aaa47fbd0c0348e9e9a7be9030acc687f6bf517994ff2e098a661d6adc8c7c1"
+
+[update]
+[update.modrinth]
+mod-id = "k2ZPuTBm"
+version = "f1EyGruV"
