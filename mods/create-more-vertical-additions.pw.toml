@@ -1,0 +1,13 @@
+name = "Create More: Vertical Belts"
+filename = "cmverticaladditions-forge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Byw6UAEI/versions/8oxn55HG/cmverticaladditions-forge-1.0.0.jar"
+hash-format = "sha512"
+hash = "935add84e2894eb780e4e95e8d2ecbbf25a105b496e5153bb64eb68b42acae508f8503d401d7ea100ca08c7899c070a82a15a2fe9fb57ad3a7f16d7818af9285"
+
+[update]
+[update.modrinth]
+mod-id = "Byw6UAEI"
+version = "8oxn55HG"

@@ -1,0 +1,13 @@
+name = "Magic Circles - ISAS Addon"
+filename = "magiccircles-1.2.1-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/klEV5T4u/versions/vNRpqTrN/magiccircles-1.2.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "241d8c6631f8be12fecbc6acf7422b854a58c3d85e63beac51aa67c50beafe5d021935446ccbfa93ba138a1a0a268a1d8a614a42a6d4a9310116290f5d06a280"
+
+[update]
+[update.modrinth]
+mod-id = "klEV5T4u"
+version = "vNRpqTrN"

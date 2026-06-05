@@ -1,0 +1,13 @@
+name = "Create: Jaffabricate"
+filename = "jaffabricate-1.20.1-0.5.1-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a44amjIb/versions/7it1U8TN/jaffabricate-1.20.1-0.5.1-1.1.2.jar"
+hash-format = "sha512"
+hash = "787fca579ef9295241e005fcac262c4b0d94859050c7a2bdbfd54e40f73d9e2ad5fbd41179b8583701f728ee9955e60627ac95d3e4fba4c3ba0e89341824116c"
+
+[update]
+[update.modrinth]
+mod-id = "a44amjIb"
+version = "7it1U8TN"

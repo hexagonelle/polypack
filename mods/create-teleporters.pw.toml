@@ -1,13 +1,13 @@
 name = "Create: Teleporters"
-filename = "createteleporters2.3-1.20.1.jar"
+filename = "createteleporters-remastered-2.0.2b-forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9mtJ8MHP/versions/NeYvTQQ9/createteleporters2.3-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/9mtJ8MHP/versions/vA28X1Ax/createteleporters-remastered-2.0.2b-forge-1.20.1.jar"
 hash-format = "sha512"
-hash = "6482d05130fe5367ed316b789841868cf4a6156a93400be2020ea040bac644f3775e8f80372eb8ee7c2e93e05d2adc6fafab0632332d2bab3e1bd0344ae8a639"
+hash = "81a6b8c1c149e428194e8875c96c6b64a0b2bb020ad490c50c7839c48592f0173b6e9c2fb48bff59c025d7dceea7d2cbaf492a3f8c7eb8ebc43faf7e1c2a0209"
 
 [update]
 [update.modrinth]
 mod-id = "9mtJ8MHP"
-version = "NeYvTQQ9"
+version = "vA28X1Ax"

@@ -1,13 +1,13 @@
 name = "Scholar"
-filename = "scholar-1.20.1-1.1.9-forge.jar"
+filename = "scholar-1.20.1-1.1.10-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fX4dIQCo/versions/yxQA51K6/scholar-1.20.1-1.1.9-forge.jar"
+url = "https://cdn.modrinth.com/data/fX4dIQCo/versions/fIAX7xcL/scholar-1.20.1-1.1.10-forge.jar"
 hash-format = "sha512"
-hash = "08ed6ef563eb66b0444ebb432e69e04462e8d1be00368f505b1fc11c22ec65a54f61e7e11a36c1791a18df7c14b2d6b670b5e1cbf9c8c99aa7ab435afe671aca"
+hash = "d15bb65dc60a082429824f42ae916707ba5a2b5659ca8cfb3ac8502153f1e78e52a1b99727bb86fab0056dd5a61257c1d59fe4af446545472444f07da43ed844"
 
 [update]
 [update.modrinth]
 mod-id = "fX4dIQCo"
-version = "yxQA51K6"
+version = "fIAX7xcL"

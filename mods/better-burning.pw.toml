@@ -1,13 +1,13 @@
 name = "Better Burning"
-filename = "BetterBurning-Forge-1.20.1-9.0.2.jar"
+filename = "BetterBurning-Forge-1.20.1-9.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uNBP8Xul/versions/ofC4BKPB/BetterBurning-Forge-1.20.1-9.0.2.jar"
+url = "https://cdn.modrinth.com/data/uNBP8Xul/versions/XAQa048h/BetterBurning-Forge-1.20.1-9.0.3.jar"
 hash-format = "sha512"
-hash = "ea1c2527c6cdc50ad551d297de595484761c0fd4d7dee50f03d263635e17ea5f32fb5fc843901535c8dbead0b9807be70e46824b6c8d75732738d63b0d51bddc"
+hash = "0e5e0230d820b041a087641d9b20c963b1e56fdf7cc14e5be4d0a87708cc914efe320987fae5df8ad278dde5c8dcd7cf7ec91d1b585dfd22c95eac19a48f6f24"
 
 [update]
 [update.modrinth]
 mod-id = "uNBP8Xul"
-version = "ofC4BKPB"
+version = "XAQa048h"

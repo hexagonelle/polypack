@@ -1,13 +1,13 @@
 name = "Some Assembly Required"
-filename = "some-assembly-required-1.20.1-4.2.2.jar"
+filename = "some-assembly-required-1.20.1-4.2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jZi8ogTA/versions/M6ls9zrf/some-assembly-required-1.20.1-4.2.2.jar"
+url = "https://cdn.modrinth.com/data/jZi8ogTA/versions/36OEHU7f/some-assembly-required-1.20.1-4.2.3.jar"
 hash-format = "sha512"
-hash = "5359466052aaf6002daa231e00e81dba61926900a170b9ff0fd8196ae3b9c1e852d5333decd41a2b4f70a16356c0d8777e248a4150837b30c926b6ee089f906a"
+hash = "536d4e07daacb744fe3821bd6d7b04bb9bf2b8efcaf6d6071aa2bd684d13276355fea529e01cfaa22e4d121bbe3f8034bbdaaf3f46388aaf27c4679c627317b7"
 
 [update]
 [update.modrinth]
 mod-id = "jZi8ogTA"
-version = "M6ls9zrf"
+version = "36OEHU7f"

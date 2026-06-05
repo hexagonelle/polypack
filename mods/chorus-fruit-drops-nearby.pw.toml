@@ -1,0 +1,13 @@
+name = "Chorus Fruit Drops Nearby"
+filename = "chorusfruitdropsnearby-1.20.1-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iXK7LqxS/versions/pm0kZ99E/chorusfruitdropsnearby-1.20.1-1.1.jar"
+hash-format = "sha512"
+hash = "e8e3b8a442649b2dcdbe63f83572542740a570cc2fe74ef19690ae989b176d5c22a715e4e0b44db12450466d10edaeba4a811258b683b75cbea8aab88831abff"
+
+[update]
+[update.modrinth]
+mod-id = "iXK7LqxS"
+version = "pm0kZ99E"

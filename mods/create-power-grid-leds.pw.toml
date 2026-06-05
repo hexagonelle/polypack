@@ -1,0 +1,13 @@
+name = "Create: Power Grid - LEDs"
+filename = "powergrid_leds-forge-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JwbLciXQ/versions/GlI3AHq2/powergrid_leds-forge-0.1.0.jar"
+hash-format = "sha512"
+hash = "29b296cd1cae9cc406fe9eaab2d829d6e3ce77b4463614d3dca9435640b5904fc0e71aa351d85f66b3a654249d06f1353db7058d05173db376deb7b4b2bd570c"
+
+[update]
+[update.modrinth]
+mod-id = "JwbLciXQ"
+version = "GlI3AHq2"

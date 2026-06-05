@@ -1,13 +1,13 @@
 name = "Max Health Fix"
-filename = "MaxHealthFix-Forge-1.20.1-12.0.3.jar"
+filename = "MaxHealthFix-Forge-1.20.1-12.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mH8wdmqr/versions/dnOhiNlT/MaxHealthFix-Forge-1.20.1-12.0.3.jar"
+url = "https://cdn.modrinth.com/data/mH8wdmqr/versions/9zIRBxJ9/MaxHealthFix-Forge-1.20.1-12.0.4.jar"
 hash-format = "sha512"
-hash = "154320cdf3bb9cdf7485e1824eb9a97c593c1c0c202bcb8d7de0183ea042a7a8190ed8b54e679d9baece0c3b219dea8592aa0dcc4b56238b4f3415036a9e2e98"
+hash = "66a03115042eaa2367ebb36123950b861cf60a0a5b039d2989ff46994c2b9528a3c1608dc6959af6af9d1582a41e904dc330812114223c3a6953339d47f6286e"
 
 [update]
 [update.modrinth]
 mod-id = "mH8wdmqr"
-version = "dnOhiNlT"
+version = "9zIRBxJ9"

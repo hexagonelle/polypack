@@ -1,13 +1,13 @@
 name = "Twilight's Flavor & Delight"
-filename = "twilightdelight-2.0.17.jar"
+filename = "twilightdelight-2.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/d6cSefpO/versions/PDoYDmdt/twilightdelight-2.0.17.jar"
+url = "https://cdn.modrinth.com/data/d6cSefpO/versions/a4Gzc8f6/twilightdelight-2.2.1.jar"
 hash-format = "sha512"
-hash = "f7c93ef32cff3a238b49c4f2080abc80b89640e0db154122563c23ec32f32053c019ad608463e10af9fa2e8536509d72afed6eb765c6a104b5d35fe8eb6ec87a"
+hash = "9c21ebcfad11dfec47b6c4fcacc83ac84537f6f576e7bff76db9592cc67b124931b725dc564743a0559efba7f310c20d19201b2591953ad31fdf17cbde509312"
 
 [update]
 [update.modrinth]
 mod-id = "d6cSefpO"
-version = "PDoYDmdt"
+version = "a4Gzc8f6"

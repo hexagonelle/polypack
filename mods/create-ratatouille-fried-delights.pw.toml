@@ -1,0 +1,13 @@
+name = "Create: Ratatouille Fried Delights"
+filename = "ratatouille_fried_delights-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xG1YXmVZ/versions/XcCxSI18/ratatouille_fried_delights-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "9d6a9f1786b430cb86b3179b954bc24eb429252745eb1ce89c219f1f1dcd59c64605b8a8b9dbdc23ffead2ed0149732362e88876173a524678acd31ce8dd6d50"
+
+[update]
+[update.modrinth]
+mod-id = "xG1YXmVZ"
+version = "XcCxSI18"

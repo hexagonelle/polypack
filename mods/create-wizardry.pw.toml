@@ -1,0 +1,13 @@
+name = "Create: Wizardry"
+filename = "create_wizardry-1.20.1-0.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OeGdeWEj/versions/LTOnyKql/create_wizardry-1.20.1-0.4.2.jar"
+hash-format = "sha512"
+hash = "c83af39a38a184e7e66b3ffba780e2f13130c0e74df975ce092c44d12cb35156dbff35b7764257fb55217559f76a5b3490c8e0dac8cd52c1e3710920728097f6"
+
+[update]
+[update.modrinth]
+mod-id = "OeGdeWEj"
+version = "LTOnyKql"
