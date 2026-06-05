@@ -2771,6 +2771,10 @@ file = "kubejs/server_scripts/waystones.js"
 hash = "f572118114c173397668570e63225d83e1493a9bd0ea39ba833a0d745f1d058a"
 
 [[files]]
+file = "kubejs/server_scripts/wizardsreborn.js"
+hash = "0984ebf175dafa2fd3c36041cb04c05f7f363542b9b837f500968315ecf2030d"
+
+[[files]]
 file = "kubejs/startup_scripts/createmechanicalspawner.js"
 hash = "9dea1274314853b6b55e1e239d3fda97f1bdd6c3f2203c13ae1a77cb170e1003"
 
