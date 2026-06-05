@@ -3207,11 +3207,6 @@ hash = "71b6267e2c7f91e6dae89aaea6fefdb36e8fcc15db9ee180d10b5d706d4a657b"
 metafile = true
 
 [[files]]
-file = "mods/create-air-ducts.pw.toml"
-hash = "db9710ebd6cb50c48c7f25ebab60a54f39d90a38eb7679f252b0db7d0b7e2eda"
-metafile = true
-
-[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "cd1d5a57c6fe6432043ceb6c4756f17d79477989658d7d3f18ab6ae82e8b918f"
 metafile = true
@@ -3342,6 +3337,11 @@ hash = "03a2eef4f8dcb81ecce0867c6444c747ce48d1d21eab7bea74d1146c4880d3ba"
 metafile = true
 
 [[files]]
+file = "mods/create-ratatouille.pw.toml"
+hash = "764675450cd479b4cd48bb4aae4895608094c4a45fef2f948029ded38068c095"
+metafile = true
+
+[[files]]
 file = "mods/create-rns.pw.toml"
 hash = "f4f36b31e22a2a6cdae0cbc35e58ac935413c43308cedcfb786835e64402d5e2"
 metafile = true
@@ -3388,7 +3388,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "e6d1f36e9e0193fe410d136e0cda8a7f6dbbc809c0644f06a601bddf5b38a395"
+hash = "cfaa5b3bc3481ac20f9294309e91f7a01597b6adf70137fe3340d02b7b941299"
 metafile = true
 
 [[files]]
@@ -3479,6 +3479,11 @@ metafile = true
 [[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
+metafile = true
+
+[[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "887c6940342275e576824435f20050c1c938a151c758568c4059626775d20cfc"
 metafile = true
 
 [[files]]
@@ -3623,7 +3628,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "d478b8c5149f9c37bc0072d0608e2fbc6ff38cd3d15420f99c8a7ed2a55c8f0e"
+hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
 metafile = true
 
 [[files]]
@@ -3857,6 +3862,11 @@ hash = "e87e55d35c6a335f35329b1356c8c40589f6b955b4933614f03d6c8b747f1476"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "2a18e331ff0abcf4b3a735ae22ea646db6144a5e329c81bad45962f0af7552d7"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "587f35bf23ac75570b167ee6ae4e76255a084b10452f406c0dbf6fa81ada24dd"
 metafile = true
@@ -3873,7 +3883,7 @@ metafile = true
 
 [[files]]
 file = "mods/jaffabricate.pw.toml"
-hash = "35993c9065e2eba82168f5400f46d36d525431b07c9b111560eb0852ad01876f"
+hash = "0b7c1d9c45528ab5e10ddf62d6697a834e4203273dd5d4e82434e1de47b8c41e"
 metafile = true
 
 [[files]]
@@ -3939,6 +3949,11 @@ metafile = true
 [[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "0b9e11096e44f7fe230e3578ddf5d898c0c29bbeeb00cc09026de6eae695b0c3"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "06f4ec62e349dad628aff17e122126ddaf75300bebf0fc163adfcdc80c429fdd"
 metafile = true
 
 [[files]]
