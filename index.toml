@@ -2551,10 +2551,6 @@ file = "kubejs/server_scripts/berrygood.js"
 hash = "6a036d0ab1f63b92e10a4601775f7d2c329fbdea190f314175f7486ae07a3f68"
 
 [[files]]
-file = "kubejs/server_scripts/borninchaos.js"
-hash = "0a1151b5d54d473a1c65faa8a9c599dbb773a43000ac8347d24c4e34d569a014"
-
-[[files]]
 file = "kubejs/server_scripts/cataclysm_iw_quark_yungscaves.js"
 hash = "aeff54b45deb35dbc86271181a3e9af115fe59f0bb539d8e34d80cf212edebd7"
 
