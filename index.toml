@@ -1362,7 +1362,7 @@ hash = "6da41c3527b9a8c8b7c954a8d695b196eb492f6ea26ec71f7208461732405a95"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "5f4c2d14aff9766c13367825602103b12ad4c844a858f04058b3787a053715a5"
+hash = "8de4a5a062e560ce82723fe165b0873c5a88b422b2178f4445bd5ade5081d8f7"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
