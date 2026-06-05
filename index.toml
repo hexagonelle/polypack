@@ -3017,11 +3017,6 @@ hash = "ba71bdea2bb0e65eb53646a70e710a23bd711743aba3bc8ba1f2e1034f1cbc50"
 metafile = true
 
 [[files]]
-file = "mods/born-in-configuration.pw.toml"
-hash = "fa398d7210915d7faafa0b77901b459687263b5a07ee628745ce2ca7464efb3b"
-metafile = true
-
-[[files]]
 file = "mods/bossesrise.pw.toml"
 hash = "ee892fd4cbe8b81cc7cb59c7238029b1053a157f76a0e7c0b0315b176fb18a86"
 metafile = true
