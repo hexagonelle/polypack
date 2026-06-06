@@ -1,0 +1,13 @@
+name = "Cataclysm x YUNG's Better Nether Fortresses Compat"
+filename = "cataclysmfortresses-1.20.1-Forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ut5Iiqct/versions/lhcef7pf/cataclysmfortresses-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "5bba718010581a8d5b11ba299375ec7040e04dfccb7b1706fcbd82f46ea41f97339cc2b2ffd4796206df774ed187c3b0946c80554964bebbc7bcfca66cbab3b0"
+
+[update]
+[update.modrinth]
+mod-id = "Ut5Iiqct"
+version = "lhcef7pf"
