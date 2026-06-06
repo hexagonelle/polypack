@@ -2655,10 +2655,6 @@ file = "kubejs/server_scripts/custom-lanternhousing_realistictorches.js"
 hash = "39a6a0adc67afcfd416726be896e7bb815bf7c8e15e810bee6088fd5c405edd4"
 
 [[files]]
-file = "kubejs/server_scripts/custom-recallgem.js"
-hash = "657a7468a792a5a1c60ae449e471c80f49012722dcdb4a8aa035507bb535c76a"
-
-[[files]]
 file = "kubejs/server_scripts/delightful_hexerei_immersive-weathering.js"
 hash = "097c7b27be02055a0670154be6021ec4f28a785be63a292cafbf977905e700dd"
 
@@ -2804,7 +2800,7 @@ hash = "dc4ee2cb355296519b90cdc99625887bdaf3867deb89c2c8f7c0b89e9e97eca6"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-recallgem.js"
-hash = "657a7468a792a5a1c60ae449e471c80f49012722dcdb4a8aa035507bb535c76a"
+hash = "afd717bd71c146af55d51a6d598afc66a97d48e7ed5a92d8daf8ffcd0676372b"
 
 [[files]]
 file = "kubejs/startup_scripts/villager_enchants_infobook.js"
