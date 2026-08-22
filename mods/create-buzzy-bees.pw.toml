@@ -1,0 +1,13 @@
+name = "Create: Buzzy Bees"
+filename = "cbbees-forge-1.2.2-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eYbO4GyQ/versions/TsTwMdea/cbbees-forge-1.2.2-all.jar"
+hash-format = "sha512"
+hash = "166e9e8b56a04935423ce27cef5ca3fffe93cc5088e0fc0aa3d6d92ed93c06a0800b93ca1adbadf6909a975135fa1058753b8b781d5d8f7fcb610b3163b6cdb2"
+
+[update]
+[update.modrinth]
+mod-id = "eYbO4GyQ"
+version = "TsTwMdea"

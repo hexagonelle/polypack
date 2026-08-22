@@ -3191,6 +3191,11 @@ hash = "cd1d5a57c6fe6432043ceb6c4756f17d79477989658d7d3f18ab6ae82e8b918f"
 metafile = true
 
 [[files]]
+file = "mods/create-buzzy-bees.pw.toml"
+hash = "a323624fbf9744036ab5b136bcf045aa42a1d1127870494f328185d50c2420f8"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "0b69f772db857977d0e70bad04d4a8112f0963074ca07258efb44d2d3e5f4578"
 metafile = true
@@ -3282,7 +3287,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-grid-leds.pw.toml"
-hash = "b43c110d29f8893e2eb959f62cdf01d4a4c8ce8959bf1d62d08ca1d09c463def"
+hash = "1b53b6284b20097dfe44fb51c60ad6099c6a171ce46853d9a6925aa0a25f6479"
 metafile = true
 
 [[files]]
@@ -3332,7 +3337,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-transmission!.pw.toml"
-hash = "acd7de285d6a626b38eddb6a3a6bbc3803459cfd070f3d45ada47217d6f33959"
+hash = "3e3cda1db550a61510bd340d7603a862cb60d87394c5d88246498f67847115f7"
 metafile = true
 
 [[files]]
@@ -4192,7 +4197,7 @@ metafile = true
 
 [[files]]
 file = "mods/power-grid.pw.toml"
-hash = "2dae94e62586f0eeceb3149deed649ad151d0def93f428986d6af0e7e9312c81"
+hash = "d80b4cf8f2a3539145037a3eff04c406df19b5c3d2bdf3f75da1ab6800ea8af9"
 metafile = true
 
 [[files]]
